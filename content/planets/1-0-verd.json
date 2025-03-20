@@ -2,7 +2,7 @@ localizedName: verd
 mesh: {
 	type: SunMesh
 	divisions: 3
-	octives: 4
+	octaves: 4
 	preststance: 0.6
 	scl: 1
 	pow: 1
