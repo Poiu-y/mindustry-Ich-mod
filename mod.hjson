@@ -1,17 +1,17 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Ich"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "ich-mod"
 
 #your name
-author: "You"
+author: "[#9900ff]z[#ffffff]er[#ffff00]iki[]"
 
 #the fully qualified main class of the mod
 main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "adds a new planet :[#00aaff] Ich[] and a new star"
 
 #the mod version
 version: 1.0
