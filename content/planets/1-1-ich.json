@@ -7,4 +7,49 @@ mesh: {
   color2:0000ff
   radius: 0.8
   octaves: 3
+  persistence: 0.8
+  scale:1
+  mag:1.5
 }
+cloudMesh: {
+  type:HexSkyMesh
+  seed:41
+  speed: 0.4
+  radius:0.05
+  divisions:4
+  color:0b0bff
+  octaves:3
+  persistence:0.6
+  scl:1
+  thresh:0.4
+}
+alwaysUnlocked:true
+sectorSize:1
+orbitSpacing: 13
+radius:1
+minZoom:0.5
+drawOrbit:true
+atmosphereRadIn:0
+atmosphereRadOut:0.4
+accessible:true
+updateLighting:false
+sectorSeed:529
+bloom:true
+visible:true
+atmosphereColor:ddeeff
+iconColor:0000ff
+hasAtmosphere:true
+allowWaveSimulation:true
+allowLaunchToNumbered:false
+clearSectorOnLose:true
+allowWaves:true
+icon:planet
+#TODO change the default core once the custom one is implemented
+defaultCore:core-shard
+parent:1-0-verd
+solarSystem:1-0-verd
+launchCanadets:[]
+#TODO once the custom items are implemented update this list
+itemWhiteList:[
+  copper
+]
