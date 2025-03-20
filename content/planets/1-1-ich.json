@@ -1,0 +1,9 @@
+localizedName: Ich
+mesh: {
+  type: noiseMesh
+  seed:14
+  divisions:4
+  color1:0a0aff
+  color2:0000ff
+  radius: 0.8
+}
