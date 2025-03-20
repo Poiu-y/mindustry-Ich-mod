@@ -8,7 +8,7 @@ name: "ich-mod"
 author: "[#9900ff]z[#ffffff]er[#ffff00]iki[]"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "mod.IchMod"
 
 #the mod description as seen in the mod dialog
 description: "adds a new planet :[#00aaff] Ich[] and a new star"
