@@ -1,20 +1,20 @@
 localizedName: Ich
 mesh: {
-  type: noiseMesh
+  type:noiseMesh
   seed:14
   divisions:4
   color1:0a0aff
   color2:0000ff
-  radius: 0.8
-  octaves: 3
-  persistence: 0.8
+  radius:0.8
+  octaves:3
+  persistence:0.8
   scale:1
   mag:1.5
 }
 cloudMesh: {
   type:HexSkyMesh
   seed:41
-  speed: 0.4
+  speed:0.4
   radius:0.05
   divisions:4
   color:0b0bff
@@ -25,7 +25,7 @@ cloudMesh: {
 }
 alwaysUnlocked:true
 sectorSize:1
-orbitSpacing: 13
+orbitSpacing:13
 radius:1
 minZoom:0.5
 drawOrbit:true
@@ -44,12 +44,12 @@ allowLaunchToNumbered:false
 clearSectorOnLose:true
 allowWaves:true
 icon:planet
-#TODO change the default core once the custom one is implemented
+#TODO_change_the_default_core_once_the_custom_one_is_implemented
 defaultCore:core-shard
 parent:1-0-verd
 solarSystem:1-0-verd
 launchCanadets:[]
-#TODO once the custom items are implemented update this list
+#TODO_once_the_custom_items_are_implemented_update_this_list
 itemWhiteList:[
   copper
 ]
