@@ -8,9 +8,9 @@ mesh: {
 	pow: 1
 	colorScale: 1
 	colors: [
-		ffe06f
-		ffa06f
-		ffe790
+		aae06f
+		aaa06f
+		aae790
 	]
 }
 accessable: false
