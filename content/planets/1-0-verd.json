@@ -9,7 +9,7 @@ mesh: {
 	colorScale: 1
 	colors: [
 		005f5f
-		00bfbf
+		ffffff
 		00ffff
 	]
 }
