@@ -8,7 +8,7 @@ mesh: {
 	pow: 1
 	colorScale: 1
 	colors: [
-		005f5f
+		00eeee
 		ffffff
 		00ffff
 	]
