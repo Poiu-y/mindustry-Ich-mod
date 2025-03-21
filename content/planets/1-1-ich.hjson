@@ -51,5 +51,5 @@ solarSystem:1-0-verd
 launchCanadets:[]
 #TODO_once_the_custom_items_are_implemented_update_this_list
 itemWhiteList:[
-  copper
+  "copper"
 ]
