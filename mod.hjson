@@ -1,5 +1,5 @@
 #the mod name as displayed in-game
-displayName: "Ich"
+displayName: "[#00ffff]Ich"
 
 #the internal name of your mod
 name: "ich-mod"
@@ -8,10 +8,10 @@ name: "ich-mod"
 author: "[#9900ff]z[#ffffff]er[#ffff00]iki[]"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+#main: "ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "adds a new planet :[#00aaff] Ich[] and a new star"
+description: "adds a new planet :[#00ffff] Ich[] and a new star"
 
 #the mod version
 version: 1.0
@@ -20,4 +20,4 @@ version: 1.0
 minGameVersion: 145
 
 #this is a java mod
-java: true
+#java: true

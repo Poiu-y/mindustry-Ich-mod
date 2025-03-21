@@ -1,17 +1,29 @@
-localizedName: verd
+localizedName: "verd solar system"
 mesh: {
 	type: SunMesh
-	divisions: 3
-	octaves: 4
-	preststance: 0.6
+	divisions: 4
+	octaves: 6
+	preststance: 0.9
 	scl: 1
 	pow: 1
 	colorScale: 1
 	colors: [
-		ffe06f
-		ffa06f
-		ffe790
+		00eeee
+		ffffff
+		00ffff
 	]
+}
+cloudMesh: {
+  type:HexSkyMesh
+  seed:41
+  speed:0.4
+  radius:0.05
+  divisions:4
+  color:00ffff
+  octaves:6
+  persistence:0.6
+  scl:1
+  thresh:0.4
 }
 accessable: false
 visable:true
