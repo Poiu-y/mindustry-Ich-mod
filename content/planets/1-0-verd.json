@@ -1,4 +1,4 @@
-localizedName: verd
+localizedName: "verd solar system"
 mesh: {
 	type: SunMesh
 	divisions: 3
