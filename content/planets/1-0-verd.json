@@ -2,8 +2,8 @@ localizedName: "verd solar system"
 mesh: {
 	type: SunMesh
 	divisions: 3
-	octaves: 4
-	preststance: 0.6
+	octaves: 6
+	preststance: 0.9
 	scl: 1
 	pow: 1
 	colorScale: 1
