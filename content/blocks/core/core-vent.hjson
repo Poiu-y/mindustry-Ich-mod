@@ -1,0 +1,23 @@
+type:CoreBlock
+name: Core: vent
+description: we will rise again
+#TODO update this when the items are added
+requirements: [
+  copper/2
+]
+isFirstTier:true
+size:3
+squareSprite:false
+alwaysUnlocked:true
+#TODO update this when the unit is added
+unitType:alpha
+health:2000
+itemCapacity:5000
+unitCapModifier:10
+category:effect
+research:{
+  planet:1-1-ich
+  root:true
+  name:ich
+  requiresUnlock:false
+}
