@@ -10,7 +10,7 @@ size:3
 squareSprite:false
 alwaysUnlocked:true
 #TODO update this when the unit is added
-unitType:alpha
+unitType:nova
 health:2000
 itemCapacity:5000
 unitCapModifier:10
