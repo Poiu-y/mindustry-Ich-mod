@@ -62,7 +62,7 @@ clearSectorOnLose:true
 allowWaves:true
 icon:planet
 #TODO_change_the_default_core_once_the_custom_one_is_implemented
-defaultCore:"core-shard"
+defaultCore:core-shard
 parent:"1-0-verd"
 solarSystem:"1-0-verd"
 launchCanadets:[]
