@@ -1,5 +1,5 @@
 type:CoreBlock
-name: Core: vent
+name: "Core: vent"
 description: we will rise again
 #TODO update this when the items are added
 requirements: [
