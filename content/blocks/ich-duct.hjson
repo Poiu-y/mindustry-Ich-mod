@@ -1,6 +1,8 @@
 type:duct
 name: Curent duct
 discription: moves items with artifical water currents, is not waterproof
+category: distribution
+alwaysUnlocked:true
 research:core-shard
 speed:5
 health:40
