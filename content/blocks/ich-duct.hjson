@@ -1,0 +1,13 @@
+type:duct
+name: Curent duct
+discription: moves items with artifical water currents, is not waterproof
+research:core-shard
+speed:5
+health:40
+#TODO fix this when the bridge is added
+bridgeReplacement:copper-wall
+#TODO fix this when the items are added
+requirements:[
+  copper/1
+]
+researchCostMultiplier:0
