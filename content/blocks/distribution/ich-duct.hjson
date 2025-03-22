@@ -3,7 +3,7 @@ name: Curent duct
 discription: moves items with artifical water currents, is not waterproof
 category: distribution
 alwaysUnlocked:true
-research:core-shard
+research:core-vent
 speed:5
 health:40
 #TODO fix this when the bridge is added
