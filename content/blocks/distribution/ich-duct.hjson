@@ -10,6 +10,7 @@ health:40
 bridgeReplacement:copper-wall
 #TODO fix this when the items are added
 requirements:[
-  copper/1
+  aluminum/1
 ]
 researchCostMultiplier:0
+hiddenOnPlanets: [serpulo, erekir]
