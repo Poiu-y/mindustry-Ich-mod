@@ -1,0 +1,7 @@
+name:aluminum
+description:"a usefull but weak metal that is hard to corrode"
+hardness:0.5
+cost:0.5
+alwaysUnlocked:true
+research:core-vent
+hiddenOnPlanets: [serpulo, erekir}
