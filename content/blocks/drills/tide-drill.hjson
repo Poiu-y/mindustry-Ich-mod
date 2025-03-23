@@ -1,7 +1,7 @@
 type:drill
 name:"[#00ffff]tide drill"
 size:2
-category:drills
+category:production
 tier:1
 hardnessDrillMultipier:0.5
 requirements:[
