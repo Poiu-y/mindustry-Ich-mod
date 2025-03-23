@@ -34,7 +34,7 @@ weapons:[
       shotDelay:12
       shots:2
     }
-    chargeSound:build
+    chargeSound:dullExplosion
     bullet: {
       type: LaserBulletType
       Colors:[85c278, 00ffff, ffffff]
