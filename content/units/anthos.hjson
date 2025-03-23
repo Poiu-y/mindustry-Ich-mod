@@ -7,6 +7,9 @@ controller:RepairAI
 commands:[move, repair, rebuild, assist]
 armor:1
 flying:false
+mineTier:1
+mineFloor:true
+mineSpeed:3.4
 legExtension:-2.5
 buildSpeed:0.6
 legMoveSpace:0.9
