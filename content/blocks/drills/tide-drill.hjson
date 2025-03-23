@@ -3,12 +3,11 @@ name:"[#00ffff]tide drill"
 size:2
 category:drills
 tier:1
-research:{
-  core-vent
-}
 hardnessDrillMultipier:0.5
-drillEffect:{}
 requirements:[
   aluminum/10
 ]
 hiddenOnPlanets: [serpulo, erekir]
+research:{
+  core-vent
+}
