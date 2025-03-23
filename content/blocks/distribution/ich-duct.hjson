@@ -8,7 +8,6 @@ speed:5
 health:40
 #TODO fix this when the bridge is added
 bridgeReplacement:copper-wall
-#TODO fix this when the items are added
 requirements:[
   aluminum/1
 ]
