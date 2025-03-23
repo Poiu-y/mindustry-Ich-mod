@@ -9,5 +9,5 @@ requirements:[
 ]
 hiddenOnPlanets: [serpulo, erekir]
 research:{
-  vent-core
+  parent:vent-core
 }
