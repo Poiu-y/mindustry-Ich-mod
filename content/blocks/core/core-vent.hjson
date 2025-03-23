@@ -21,3 +21,4 @@ research:{
   name:ich
   requiresUnlock:false
 }
+hiddenOnPlanets: [serpulo, erekir]
