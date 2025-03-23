@@ -1,6 +1,6 @@
 type:DuctBridge
 name:current duct bridge
-description:allows ducts to pass over blocks
+description:"allows ducts to pass over blocks"
 health:40
 size:1
 requirements:[
