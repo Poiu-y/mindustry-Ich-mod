@@ -4,7 +4,7 @@ description: its a junction
 health:40
 size:1
 speed:90
-requirements[
+requirements:[
   aluminum/2
 ]
 squareSprite:false
