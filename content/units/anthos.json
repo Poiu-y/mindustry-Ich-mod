@@ -29,10 +29,4 @@ weapons:[
     rotate:false
     shootSound:beam
     inaccuracy:5
-    shoot:{
-    firstShotDelay:60
-    shotDelay:12
-    shots:2
-    }
-  }
-]
+    shoot: {
