@@ -8,6 +8,6 @@ requirements:[
   aluminum/10
 ]
 hiddenOnPlanets: [serpulo, erekir]
-research: {
-  core-vent
+research:{
+  vent-core
 }
