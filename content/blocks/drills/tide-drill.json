@@ -1,0 +1,12 @@
+type:Drill
+name:"[#00ffff]tide drill"
+size:2
+category:drills
+research:{
+  core-vent
+}
+hardnessDrillMultipier:0.5
+drillEffect:{}
+requirements:[
+  aluminum/10
+]
