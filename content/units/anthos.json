@@ -44,6 +44,7 @@ weapons:[
       width:2
       lenth:144
       damage:20
+      healPresent:2
       collidesTeam:true
       pierce:false
       pierceBuilding:false
