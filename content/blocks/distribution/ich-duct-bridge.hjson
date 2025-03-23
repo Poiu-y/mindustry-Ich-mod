@@ -1,0 +1,14 @@
+type:DuctBridge
+name:current duct bridge
+description:allows ducts to pass over blocks
+health:40
+size:1
+requirements:[
+  aluminum/2
+]
+category:distribution
+research: ich-duct
+sqareSprite:false
+range:4
+speed:4
+researchCostMultiplier:0.5
