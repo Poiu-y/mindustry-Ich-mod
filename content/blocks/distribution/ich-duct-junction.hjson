@@ -6,7 +6,7 @@ size:1
 speed:90
 #TODO fix this when the items are added
 requirements[
-  copper/2
+  aluminum/2
 ]
 squareSprite:false
 category: distribution
