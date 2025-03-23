@@ -2,6 +2,7 @@ type:Drill
 name:"[#00ffff]tide drill"
 size:2
 category:drills
+tier:1
 research:{
   core-vent
 }
@@ -10,3 +11,4 @@ drillEffect:{}
 requirements:[
   aluminum/10
 ]
+hiddenOnPlanets: [serpulo, erekir]
