@@ -1,0 +1,14 @@
+type:junction
+name:curent junction
+description: its a junction
+health:40
+size:1
+speed:90
+#TODO fix this when the items are added
+requirements[
+  copper/2
+]
+squareSprite:false
+category: distribution
+research: ich-duct
+researchCostMultiplier:0.5
