@@ -27,7 +27,7 @@ weapons:[
     reload:100
     mirror:false
     rotate:false
-    shootSound:beam
+    shootSound:bolt
     inaccuracy:5
     shoot: {
       firstShotDelay:60
