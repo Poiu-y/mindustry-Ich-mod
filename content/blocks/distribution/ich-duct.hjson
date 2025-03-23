@@ -6,8 +6,7 @@ alwaysUnlocked:true
 research:core-vent
 speed:5
 health:40
-#TODO fix this when the bridge is added
-bridgeReplacement:copper-wall
+bridgeReplacement:ich-duct-bridge
 requirements:[
   aluminum/1
 ]
