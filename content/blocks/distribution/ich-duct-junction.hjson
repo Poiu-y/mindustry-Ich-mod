@@ -12,3 +12,4 @@ squareSprite:false
 category: distribution
 research: ich-duct
 researchCostMultiplier:0.5
+hiddenOnPlanets: [serpulo, erekir]
