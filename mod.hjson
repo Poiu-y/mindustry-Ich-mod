@@ -11,7 +11,7 @@ author: "[#9900ff]z[#ffffff]er[#ffff00]iki[]"
 #main: "ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "adds a new planet :[#00ffff] Ich[] and a new star                              a wip mindustry mod that would add a custom campain set in a different solar system, on an aqatic planet named ich thanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets"
+description: "adds a new planet :[#00ffff] Ich[] and a new star /n /n /n a wip mindustry mod that would add a custom campain set in a different solar system, on an aqatic planet named ich thanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets"
 
 #the mod version
 version: 1.0
