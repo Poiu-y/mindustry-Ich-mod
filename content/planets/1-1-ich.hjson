@@ -62,7 +62,6 @@ allowLaunchToNumbered:false
 clearSectorOnLose:true
 allowWaves:true
 icon:planet
-#TODO_change_the_default_core_once_the_custom_one_is_implemented
 defaultCore:ich-mod-core-vent
 parent:"1-0-verd"
 solarSystem:"1-0-verd"
