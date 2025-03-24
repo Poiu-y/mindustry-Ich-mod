@@ -1,1 +1,3 @@
+type:OreBlock
 name:"silver ore"
+itemDrop:raw-silver
