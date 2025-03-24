@@ -1,0 +1,22 @@
+type:CoreBlock
+name: "vivus"
+description: a rare deep sea plant. dead ones can be harvested for salt.
+#TODO update this when the items are added
+requirements: [
+  salt/100
+]
+isFirstTier:true
+size:2
+squareSprite:false
+#TODO update this when the unit is added
+unitType:anthos
+health:2000
+itemCapacity:5000
+unitCapModifier:1
+category:effect
+#TODO add the sector when it is added
+research:{
+  parent:salt
+}
+BuildVisablity:fogOnly
+requiresUnlock:true
