@@ -1,0 +1,7 @@
+name:salt
+description:a weak but usefull mineral that can be refined
+hardness:0.1
+cost:0.5
+research:core-vent
+hiddenOnPlanets: [serpulo, erekir]
+color:ffedff
