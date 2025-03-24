@@ -3,7 +3,7 @@ name: "Core: vent"
 description: we will rise again
 #TODO update this when the items are added
 requirements: [
-  copper/2
+  aluminum/200
 ]
 isFirstTier:true
 size:3
