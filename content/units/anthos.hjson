@@ -1,7 +1,8 @@
 type:legs
 name:Anthos
 description:"engineered lifeform with a magnisium carbonate exoskeleton, no [#99ff00]one knows who created them."
-lore:"your kind"
+details:"your kind"
+hideDetails:false
 speed:0.5
 health:180
 controller:RepairAI
