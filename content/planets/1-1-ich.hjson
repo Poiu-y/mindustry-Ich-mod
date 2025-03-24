@@ -1,6 +1,7 @@
 localizedName:Ich
 mesh: {
   type:noiseMesh
+  planet:1-1-ich
   seed:14
   divisions:4
   color1:0a0aff
