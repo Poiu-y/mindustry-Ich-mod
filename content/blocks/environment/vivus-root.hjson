@@ -2,7 +2,7 @@ type:duct
 name: vivus root
 description: "vivus root"
 category: distribution
-alwaysUnlocked:false
+alwaysUnlocked:true
 research:vivus-core
 speed:5
 health:40
@@ -12,3 +12,5 @@ requirements:[
 ]
 researchCostMultiplier:0
 hiddenOnPlanets: [serpulo, erekir]
+BuildVisablity:fogOnly
+requiresUnlock:false
