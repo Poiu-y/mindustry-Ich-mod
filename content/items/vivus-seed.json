@@ -1,0 +1,7 @@
+name:vivus seed
+description:could be planted in growbeds
+hardness:0.1
+cost:0.5
+research:core-vent
+hiddenOnPlanets: [serpulo, erekir]
+color:ffedff
