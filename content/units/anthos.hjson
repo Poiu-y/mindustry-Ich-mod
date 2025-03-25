@@ -42,7 +42,7 @@ weapons:[
     chargeSound:dullExplosion
     bullet: {
       type: LaserBulletType
-      Colors:[85c278, 00ff00, ffffff]
+      Colors:[85c278, 00ff00, 00ff00]
       width:2
       lenth:144
       damage:20
