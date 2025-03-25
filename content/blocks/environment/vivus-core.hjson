@@ -16,7 +16,9 @@ unitCapModifier:1
 category:effect
 #TODO add the sector when it is added
 research:{
-  parent:salt
+  planet:1-1-ich
+  root:true
+  name:vivus
+  requiresUnlock:false
 }
 BuildVisablity:fogOnly
-requiresUnlock:true
