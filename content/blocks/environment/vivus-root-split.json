@@ -1,1 +1,13 @@
-
+type: Router
+name: vivus root split
+description: "root"
+category: distribution
+alwaysUnlocked:false
+research:vivus
+speed:5
+health:40
+requirements:[
+  salt/3
+]
+researchCostMultiplier:0.5
+hiddenOnPlanets: [serpulo, erekir]
