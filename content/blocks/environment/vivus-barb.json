@@ -21,5 +21,19 @@ reload: 12
 range: 15
 velocityRnd: 0.12
 inaccuracy: 5
-
+ammoTypes: {
+  salt: {
+  type: LaserBulletType
+  colors: [aaffaa, 00ff00, 00ffaa]
+  lightningColor: 00ff00
+  length: 176
+  lightning: 3
+  lightningLength: 6
+  lightningDamage: 8
+  lightningCone: 90
+  damage: 12
+  buildingDamageMultiplier: 0.5
+  chargeEffect: lightningCharge
+}
+squareSprite: false
 basePrefix:vivus-barb-
