@@ -1,0 +1,14 @@
+type:duct
+name: vivus root
+description: "vivus root"
+category: distribution
+alwaysUnlocked:false
+research:vivus-core
+speed:5
+health:40
+bridgeReplacement:ich-duct-bridge
+requirements:[
+  salt/5
+]
+researchCostMultiplier:0
+hiddenOnPlanets: [serpulo, erekir]
