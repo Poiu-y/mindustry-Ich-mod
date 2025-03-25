@@ -18,18 +18,18 @@ outlineColor: 42413e
 targetAir: false
 targetGround: true
 reload: 12
-range: 15
+range: 40
 velocityRnd: 0.12
 inaccuracy: 5
 ammoTypes: {
   salt: {
     type: LaserBulletType
-    colors: [aaffaa, 00ff00, 00ffaa]
+    colors: [aaffee, 00ffdd, 00ffaa]
     lightningColor: 00ff00
-    length: 176
+    length: 40
     lightning: 3
-    lightningLength: 6
-    lightningDamage: 8
+    lightningLength: 0
+    lightningDamage: 0
     lightningCone: 90
     damage: 12
     buildingDamageMultiplier: 0.5
