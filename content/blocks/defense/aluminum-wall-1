@@ -1,0 +1,12 @@
+type: Wall
+name: aluminum wall
+description: wall
+size: 1
+health: 400
+squareSprite: false
+requirements: [
+  aluminum/6
+]
+research: core-vent
+category: defense
+researchCostMultiplier: 0.05
