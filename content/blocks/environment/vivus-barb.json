@@ -10,7 +10,7 @@ research: {
   ]
 }
 researchCostMultiplier:1
-shootSound:laserbeam
+shootSound:machine
 requirements: [
   salt/40
 ]
@@ -24,7 +24,7 @@ inaccuracy: 5
 ammoTypes: {
   salt: {
     type: LaserBulletType
-    colors: [aaffee, 00ffdd, 00ffaa]
+    colors: [aaaaee, 00aadd, 00aaaa]
     lightningColor: 00ff00
     length: 40
     lightning: 3
@@ -32,7 +32,7 @@ ammoTypes: {
     lightningDamage: 0
     lightningCone: 90
     damage: 12
-    buildingDamageMultiplier: 0.5
+    buildingDamageMultiplier: 1
     chargeEffect: lightningCharge
   }
 }
