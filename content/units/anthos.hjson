@@ -22,7 +22,7 @@ legSpeed:0.56
 legForwardScl:0.56
 itemCapacity:10
 outlineColor:00413c
-hitHize:12
+hitSize:12
 researchCostMultiplier:0
 alwaysUnlocked:true
 weapons:[
