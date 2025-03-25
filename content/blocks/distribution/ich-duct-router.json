@@ -1,0 +1,13 @@
+type: Router
+name: Curent router
+description: "moves items with artifical water currents, is not waterproof"
+category: distribution
+alwaysUnlocked:false
+research:ich-duct-junction
+speed:5
+health:40
+requirements:[
+  aluminum/3
+]
+researchCostMultiplier:0.5
+hiddenOnPlanets: [serpulo, erekir]
