@@ -1,0 +1,20 @@
+type: flying
+lowAltitude: true
+name: durus
+description: only found near vivus
+drawCell: false
+outlineColor: 232028
+drag: 0.08
+accel: 0.09
+health: 840
+armor: 2
+speed: 3
+hitSize: 13
+flying: true
+faceTarget: false
+circleTarget: false
+weapons: []
+isEnemy: false
+hitSize: 6
+commands: [move, rebuild, assist]
+buildSpeed: 0.8
