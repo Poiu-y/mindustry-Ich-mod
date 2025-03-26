@@ -40,7 +40,7 @@ ammoTypes: {
 squareSprite: false
 drawer: {
   type: DrawTurret
-  basePrefix: ich-small-
+  basePrefix: ich-1x1-
   parts: [
     {
       type: RegionPart
