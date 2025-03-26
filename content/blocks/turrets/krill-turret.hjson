@@ -17,6 +17,7 @@ reload: 72
 range: 160
 velocityRnd: 0.12
 inaccuracy: 9
+shootSound: artillery
 shoot: {
   shots: 2
   shotDelay: 1
