@@ -1,0 +1,19 @@
+type: BurstDrill
+name: vivus node
+description: a strange mass of hard cells
+squareSprite: false
+size: 2
+category: production
+hardnessDrillMultiplier: 50
+research: vivus-core
+drillTime: 270
+hasPower: false
+tier: 1
+shake: 1
+itemCapacity: 30
+hasLiquids: false
+researchCostMultiplier: 0.5
+health:500
+requirements: [
+  salt/200
+]
