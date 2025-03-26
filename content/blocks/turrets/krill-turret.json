@@ -44,7 +44,7 @@ drawer: {
   parts: [
     {
       type: RegionPart
-      suffix:-team
+      suffix: -team
       mirror: false
       under: true
       progress: recoil
