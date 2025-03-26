@@ -5,7 +5,6 @@ details:"your kind"
 hideDetails:false
 speed:0.5
 health:180
-controller:RepairAI
 commands:[move, repair, rebuild, assist]
 armor:1
 flying:false
