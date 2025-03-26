@@ -26,10 +26,10 @@ ammoTypes: {
   aluminum: {
     type: LaserBulletType
     colors: [aaffee, 00ffdd, 00ffaa]
-    lightningColor: 00ff00
+    lightningColor: 00ffdd
     length: 100
     lightning: 3
-    lightningLength: 50
+    lightningLength: 5
     lightningDamage: 10
     lightningCone: 90
     damage: 12
