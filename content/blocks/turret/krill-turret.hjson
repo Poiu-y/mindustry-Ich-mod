@@ -1,6 +1,6 @@
 type: ItemTurret
 name: krill
-description: "fires splintering frag rounds."
+description: "fires standerd rounds."
 size: 1
 category: turret
 research: {
@@ -23,27 +23,13 @@ shoot: {
 }
 ammoTypes: {
   aluminum: {
-    type: ArtilleryBulletType
+    type: BasicBulletType
     speed: 2
     lifetime: 25
     splashDamage: 40
     splashDamageRadius: 32
     width: 8
     height: 8
-    fragVelocityMin: 0.9
-    fragLifeMin: 0.6
-    fragRandomSpread: 5
-    fragAngle: 30
-    fragBullets: 17
-    fragBullet: {
-      type: BasicBulletType
-      speed: 2
-      lifetime: 25
-      splashDamage: 40
-      splashDamageRadius: 32
-      width: 8
-      height: 8
-    }
   }
 }
 squareSprite: false
