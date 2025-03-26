@@ -9,7 +9,7 @@ isFirstTier:true
 size:2
 squareSprite:false
 #TODO update this when the unit is added
-unitType:anthos
+unitType:durus
 health:2000
 itemCapacity:5000
 unitCapModifier:1
