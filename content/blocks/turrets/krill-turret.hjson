@@ -35,5 +35,5 @@ ammoTypes: {
 squareSprite: false
 drawer: {
   type: DrawTurret
-  basePrefix:ich-small-turret
+  basePrefix:ich-small-turret-
 }
