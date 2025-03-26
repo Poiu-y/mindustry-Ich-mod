@@ -44,8 +44,8 @@ drawer: {
   parts: [
     {
       type: RegionPart
-      suffix: -team
-      mirror: true
+      suffix:krill-turret-team
+      mirror: false
       under: false
       progress: recoil
       moveY: -1.5
