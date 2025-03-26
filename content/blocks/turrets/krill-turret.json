@@ -25,6 +25,7 @@ shoot: {
 ammoTypes: {
   aluminum: {
     type: ArtilleryBulletType
+    sprite:bullet
     width: 7
     height: 9
     speed: 2
