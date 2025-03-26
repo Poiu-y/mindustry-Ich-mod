@@ -13,7 +13,7 @@ research: {
 researchCostMultiplier:1
 shootSound:machine
 requirements: [
-  salt/40
+  aluminum/40
 ]
 outlineColor: 42413e
 targetAir: false
@@ -23,7 +23,7 @@ range: 40
 velocityRnd: 0.12
 inaccuracy: 5
 ammoTypes: {
-  salt: {
+  aluminum: {
     type: LaserBulletType
     colors: [aaffee, 00ffdd, 00ffaa]
     lightningColor: 00ff00
