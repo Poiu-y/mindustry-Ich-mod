@@ -33,4 +33,7 @@ ammoTypes: {
   }
 }
 squareSprite: false
-basePrefix:ich-small-turret
+drawer: {
+  type: DrawTurret
+  basePrefix:ich-small-turret
+}
