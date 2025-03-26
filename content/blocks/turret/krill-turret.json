@@ -1,0 +1,24 @@
+type: ItemTurret
+name: krill
+description: fires splintering frag rounds.
+size: 1
+category: turret
+research: {
+  parent: core-vent
+  requirements: [
+    aluminum/200
+    salt/300
+  ]
+}
+outlineColor: 42413e
+targetAir: true
+targetGround: true
+reload: 72
+range: 160
+velocityRnd: 0.12
+inaccuracy: 9
+shoot: {
+  shots: 2
+  shotDelay: 1
+}
+ammoTypes: {
