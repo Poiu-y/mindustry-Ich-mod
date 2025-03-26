@@ -38,4 +38,17 @@ ammoTypes: {
   }
 }
 squareSprite: false
-basePrefix:ich-small-
+drawer: {
+  type: DrawTurret
+  basePrefix: ich-small-
+  parts: [
+    {
+      type: RegionPart
+      suffix: -side
+      mirror: true
+      under: false
+      progress: recoil
+      moveY: -1.5
+    }
+  ]
+}
