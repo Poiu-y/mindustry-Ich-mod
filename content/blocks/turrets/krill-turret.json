@@ -46,7 +46,7 @@ drawer: {
       type: RegionPart
       suffix: -team
       mirror: false
-      under: true
+      under: false
       progress: recoil
       moveY: -1.5
     }
