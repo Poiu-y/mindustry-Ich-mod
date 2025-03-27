@@ -12,5 +12,5 @@ requirements:[
 ]
 researchCostMultiplier:0
 hiddenOnPlanets: [serpulo, erekir]
-BuildVisablity:fogOnly
+BuildVisablity:sandboxOnly
 requiresUnlock:false
