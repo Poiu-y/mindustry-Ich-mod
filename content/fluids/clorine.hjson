@@ -1,0 +1,7 @@
+name:clorine
+description:exracted from salt, highly explosive.
+gas: true
+heatCapacity: 0.3
+explosiveness: 1
+color: a4c16a
+research: salt
