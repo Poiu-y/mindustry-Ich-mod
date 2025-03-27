@@ -1,0 +1,13 @@
+type: CellLiquid
+name:Novis
+description: organic, mildly radioactve
+temperature: 0
+coolant: false
+color: 00aadd
+colorFrom: 007788
+colorTo: 8d008d
+explosiveness: 0
+flammability: 0
+incinerable: false
+viscosity: 0.75
+spreadTarget: clorine
