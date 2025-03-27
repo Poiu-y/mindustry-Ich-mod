@@ -38,3 +38,4 @@ ammoTypes: {
 }
 squareSprite: false
 basePrefix:vivus-barb-
+BuildVisablity:sandboxOnly
