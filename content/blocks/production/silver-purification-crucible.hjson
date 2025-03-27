@@ -1,0 +1,34 @@
+type: GenericCrafter
+name: silver purification crucible
+description: refines silver, makes silver cloride as a byproduct
+size: 2
+scaledHealth: 60
+squareSprite: false
+craftEffect: smeltsmoke
+outputItems: [
+  silver/1
+  sand/1
+]
+consumes: {
+  items: [
+    raw-silver/1
+  ]
+}
+category: crafting
+research: {
+  parent: core-vent
+  objectives: [
+    {
+      type: OnSector
+      //TODO fix this later
+      preset: depths
+    }
+  ]
+}
+requirements: [
+  aluminum/60
+  salt/50
+]
+ambientSound:hum
+ambientSoundVolume: 0.08
+researchCostMultiplier: 3
