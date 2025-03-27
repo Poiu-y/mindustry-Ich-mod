@@ -1,0 +1,7 @@
+name:sodium
+description:a highly reactive metal
+hardness:0.1
+cost:0.5
+research:salt
+hiddenOnPlanets: [serpulo, erekir]
+color:ffedff
