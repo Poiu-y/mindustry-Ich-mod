@@ -6,6 +6,7 @@ size: 2
 category: production
 hardnessDrillMultiplier: 50
 research: vivus-core
+BuildVisablity:sandboxOnly
 drillTime: 270
 hasPower: false
 tier: 1
