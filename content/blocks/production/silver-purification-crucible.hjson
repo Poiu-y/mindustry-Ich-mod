@@ -2,6 +2,7 @@ type: GenericCrafter
 name: silver purification crucible
 description: refines silver, makes silver cloride as a byproduct
 size: 2
+craftTime: 70
 scaledHealth: 60
 squareSprite: false
 craftEffect: smeltsmoke
