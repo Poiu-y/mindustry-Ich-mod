@@ -21,4 +21,4 @@ research:{
   name:vivus
   requiresUnlock:false
 }
-BuildVisablity:fogOnly
+BuildVisablity:sandboxOnly
