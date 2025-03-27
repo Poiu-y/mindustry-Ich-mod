@@ -3,9 +3,9 @@ name:Novis
 description: organic, mildly radioactve
 temperature: 0
 coolant: false
-color: 00aadd
-colorFrom: 007788
-colorTo: 8d008d
+color: 00ffdd
+colorFrom: 007766
+colorTo: a800a8
 explosiveness: 0
 flammability: 0
 incinerable: false
