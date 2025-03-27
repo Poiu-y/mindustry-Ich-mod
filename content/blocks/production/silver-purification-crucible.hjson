@@ -8,7 +8,7 @@ squareSprite: false
 craftEffect: smeltsmoke
 outputItems: [
   silver/1
-  sand/1
+  silver-chloride/1
 ]
 consumes: {
   items: [
