@@ -1,0 +1,7 @@
+name:silver chloride
+description: can be further refined...
+hardness:0.1
+cost:0.5
+research: core-vent
+hiddenOnPlanets: [serpulo, erekir]
+color:000000
