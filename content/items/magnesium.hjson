@@ -1,0 +1,8 @@
+name:magnesium
+description:a weak but usefull metal
+details:necessary for young anthos, otherwise they can not molt without death
+hardness:0.1
+cost:0.5
+research:salt
+hiddenOnPlanets: [serpulo, erekir]
+color:ffedff
