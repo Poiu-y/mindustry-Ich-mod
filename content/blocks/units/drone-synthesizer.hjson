@@ -1,0 +1,28 @@
+type: Constructor
+name: drone synthesizer
+description: 
+'''
+  builds small drones and components
+
+   buildable:
+   -nimos
+   -aluminum walls
+   -[null]
+'''
+size: 2
+category: units
+requirements: [
+  silver/10
+  salt/30
+  aluminum/40
+] 
+buildSpeed: 1
+filter: [
+  nimos,
+  aluminum-wall-1
+]
+research: nimos
+squareSprite: false
+conductivePower: true
+researchCostMultiplier: 0.3
+maxBlockSize: 2
