@@ -4,6 +4,7 @@ description: we will rise again
 #TODO update this when the items are added
 requirements: [
   aluminum/200
+  salt/10
 ]
 isFirstTier:true
 size:3
