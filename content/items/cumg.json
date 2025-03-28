@@ -1,0 +1,7 @@
+name:CuMg
+description:an alloy of copper and magnesium.
+hardness:1
+cost:0.5
+research:novis
+hiddenOnPlanets: [serpulo, erekir]
+color:ffff00
