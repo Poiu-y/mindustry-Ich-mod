@@ -1,0 +1,9 @@
+name:inactive nimos
+description:a deactivated nimos unit
+placeablePlayer: false
+size: 2
+requirements: [
+  aluminum/20
+  salt/10
+  silver/1
+]
