@@ -22,11 +22,6 @@ buildSpeed:0.7
 isEnemy:false
 itemCapacity: 1
 lowAltitude: true
-requirements: [
-  aluminum/20
-  salt/10
-  silver/1
-]
 weapons: [
   {
     x: 1.6
