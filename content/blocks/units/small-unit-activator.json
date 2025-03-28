@@ -18,7 +18,7 @@ plans: [
     unit: nimos
     requirements: [
       ich-mod-nimos-i/1
-      mindustry-Ich-mod-aluminum-wall/1
+      ich-mod-aluminum-wall/1
     ]
     time: 10
   }
