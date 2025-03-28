@@ -17,7 +17,7 @@ plans: [
     type: AssemblerUnitPlan
     unit: nimos
     requirements: [
-      nimos-i
+      nimos-i/1
     ]
     time: 10
   }
