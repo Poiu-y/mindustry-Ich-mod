@@ -1,0 +1,8 @@
+name:unstable alloy
+description:an alloy of iridium and novis, mildly radioactive, can undergo spontaneous nuclear fusion under the right conitions.
+hardness:1
+cost:0.5
+research:novis
+hiddenOnPlanets: [serpulo, erekir]
+color:111111
+radioactivity: 0.1
