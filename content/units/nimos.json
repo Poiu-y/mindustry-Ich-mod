@@ -58,9 +58,9 @@ parts: [
   mirror: true
   under: true
   color: 900080
-  phase: 10
+  phase: 90
   stroke: 2
-  radius: 6
+  radius: 1
   layerOffset: -0.001
   }
   {
