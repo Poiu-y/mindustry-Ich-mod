@@ -18,7 +18,6 @@ plans: [
     unit: nimos
     requirements: [
       ich_mod-nimos-i/1
-      ich_mod-aluminum-wall/1
     ]
     time: 10
   }
