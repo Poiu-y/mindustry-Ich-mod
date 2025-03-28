@@ -1,0 +1,26 @@
+type: UnitAssembler
+name:small unit activation terminal
+description: actavates units.
+size: 3
+category: units
+droneType: alpha
+research: {
+  parent: drone-synthesizer
+}
+requirements: [
+  salt/50
+  aluminum/90
+  silver/90
+]
+plans: [
+  {
+    type: AssemblerUnitPlan
+    unit: nimos
+    requirements: [
+      nimos-i
+    ]
+    time: 10
+  }
+]
+areaSize: 5
+researchCostMultiplier: 0.5
