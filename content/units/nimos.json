@@ -42,7 +42,7 @@ weapons: [
       damage: 9
       width: 2
       height: 5
-      trailWidth: 1
+      trailWidth: 3
       trailLength: 6
       pierce: false
       shrinkX: 0
