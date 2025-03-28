@@ -1,1 +1,22 @@
-
+type: tether
+name: nautilus build drone
+description: a small drone that can print units and turn them on
+flying: true
+drag: 0.06
+accel: 0.11
+speed: 1.1
+health: 90
+engineSize: 2
+engineOffset: 6.5
+payloadCapacity: 0
+targetable: true
+bounded: false
+outlineColor: 44413c
+isEnemy: false
+hidden: true
+useUnitCap: false
+logicControllable: false
+playerControllable: false
+allowedInPayloads: false
+createWreck: false
+controller: AssemblerAI
