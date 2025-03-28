@@ -17,7 +17,7 @@ plans: [
     type: AssemblerUnitPlan
     unit: nimos
     requirements: [
-      mindustry-Ich-mod-nimos-i/1
+      ich-mod-nimos-i/1
       mindustry-Ich-mod-aluminum-wall/1
     ]
     time: 10
