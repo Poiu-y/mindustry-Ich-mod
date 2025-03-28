@@ -1,0 +1,7 @@
+name:copper oxide
+description: a blue crystal that can be refined into copper and ozone.
+hardness:2
+cost:0.5
+research:silver
+hiddenOnPlanets: [serpulo, erekir]
+color:80a9ff
