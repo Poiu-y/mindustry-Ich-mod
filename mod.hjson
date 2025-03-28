@@ -11,7 +11,7 @@ author: "[#9900ff]z[#ffffff]er[#ffff00]iki[]"
 #main: "ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "adds a new planet :[#00ffff] Ich[] and a new star! do note that this is my first mod. thanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets"
+description: "adds a new planet :[#00ffff] Ich[] and a new star! do note that this is my first mod and [#ff0000]IF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT[]. thanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets"
 
 #the mod version
 version: 1.0
