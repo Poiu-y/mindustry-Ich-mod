@@ -66,6 +66,3 @@ defaultCore:ich-mod-core-vent
 parent:"1-0-verd"
 solarSystem:"1-0-verd"
 launchCanadets:[]
-itemWhiteList:[
-  aluminum, raw-silver, salt 
-]
