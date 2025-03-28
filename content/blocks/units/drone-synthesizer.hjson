@@ -16,7 +16,7 @@ requirements: [
   salt/30
   aluminum/40
 ] 
-buildSpeed: 1
+buildSpeed: 0.1
 filter: [
   nimos-i,
   aluminum-wall-1
