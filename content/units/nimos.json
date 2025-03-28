@@ -18,7 +18,7 @@ armor: 1
 hitSize: 12
 researchCostMultiplier: 1.5
 research: core-vent
-commands:[move, repair, rebuild, assist]
+commands:[move, rebuild, assist]
 buildSpeed:0.7
 isEnemy:false
 engines: [
@@ -31,3 +31,31 @@ engines: [
 itemCapacity: 1
 useEngineElevation: false
 lowAltitude: true
+weapons: [
+  {
+    x: 1.6
+    y: 1
+    mirror: true
+    alternate: true
+    reload: 46
+    rotate: false
+    shootSound: missile
+    shoot: {
+      shots: 3
+      shotDelay: 5
+    }
+    bullet: {
+      type: MissileBulletType
+      speed: 4
+      lifetime: 39
+      damage: 9
+      width: 2
+      height: 5
+      trailWidth: 1
+      trailLength: 6
+      pierce: false
+      shrinkX: 0
+      shrinkY: 0
+    }
+  }
+]
