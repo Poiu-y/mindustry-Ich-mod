@@ -3,7 +3,7 @@ name:small unit activation terminal
 description: actavates units.
 size: 3
 category: units
-droneType: alpha
+droneType: nautilus-build-drone
 research: {
   parent: drone-synthesizer
 }
