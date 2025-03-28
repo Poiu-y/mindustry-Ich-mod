@@ -1,6 +1,6 @@
 type: mech
 name: Nimos
-description: a small submersable drone that can build. Cannot cross terrain.
+description: "a small submersable drone that can build. Cannot cross terrain."
 hovering: true
 hoverable: true
 shadowElevation: 0.1
@@ -18,6 +18,9 @@ armor: 1
 hitSize: 12
 researchCostMultiplier: 1.5
 research: core-vent
+commands:[move, repair, rebuild, assist]
+buildSpeed:0.7
+isEnemy:false
 engines: [
   {
     x: 0
@@ -26,5 +29,5 @@ engines: [
   }
 ]
 itemCapacity: 1
-useEngineElevation: true
+useEngineElevation: false
 lowAltitude: true
