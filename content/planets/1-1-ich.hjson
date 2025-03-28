@@ -62,7 +62,7 @@ allowLaunchToNumbered:false
 clearSectorOnLose:true
 allowWaves:true
 icon:planet
-defaultCore:ich-mod-core-vent
+defaultCore:ich_mod-core-vent
 parent:"1-0-verd"
 solarSystem:"1-0-verd"
 launchCanadets:[]
