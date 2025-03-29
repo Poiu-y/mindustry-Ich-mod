@@ -28,3 +28,4 @@ requirements: [
 ambientSound:hum
 ambientSoundVolume: 0.08
 researchCostMultiplier: 3
+ignoreLiquidFullness: true
