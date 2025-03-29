@@ -28,7 +28,7 @@ parts: [
   y: 0
   mirror: false
   under: true
-  color: 900080
+  color: ff0000
   phase: 90
   stroke: 2
   radius: 6
