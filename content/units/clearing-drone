@@ -1,1 +1,23 @@
-
+type: mech
+name: clearing-drone
+description: "a small explosive. Cannot cross terrain."
+hovering: true
+shadowElevation: 0.1
+mechFrontSway: 0
+mechSideSway: 0
+mechStride: 0
+drag: 0.06
+outlineColor: 44413c
+speed: 2.4
+rotateSpeed: 2
+accel: 0.09
+groundLayer: 50
+health: 156
+armor: 1
+hitSize: 6
+researchCostMultiplier: 1.5
+research: core-vent
+commands:[move]
+isEnemy:false
+itemCapacity: 0
+lowAltitude: true
