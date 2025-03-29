@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: magnesium filter
-description: filters magnesium out of salt, reqires clorine
+description: filters magnesium out of salt, reqires clorine.
 size: 3
 craftTime: 70
 scaledHealth: 70
@@ -10,10 +10,13 @@ outputItems: [
   magnesium/1
   salt/2
 ]
-clorine/1
+
 consumes: {
   items: [
     salt/3
+  ]
+  liquids: [
+    clorine/0.1
   ]
 }
 category: crafting
