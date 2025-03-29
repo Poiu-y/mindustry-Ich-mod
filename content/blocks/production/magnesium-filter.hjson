@@ -10,7 +10,6 @@ outputItems: [
   magnesium/1
   salt/2
 ]
-
 consumes: {
   items: [
     salt/3
