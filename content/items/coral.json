@@ -1,0 +1,8 @@
+name: coral fragment
+description: a fragment of coral, flamable,
+hardness:0.95
+flammability: 1.3
+cost:0.5
+research:sodium
+hiddenOnPlanets: [serpulo, erekir]
+color:ffaa00
