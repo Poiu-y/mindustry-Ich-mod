@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: salt refinery
+description: refines salt into sodium and clorine.
+size: 3
+craftTime: 70
+scaledHealth: 70
+squareSprite: false
+craftEffect: smeltsmoke
+outputItems: [
+  sodium/1
+]
+outputLiquid:clorine/1
+consumes: {
+  items: [
+    salt/2
+  ]
+}
+category: crafting
+research: {
+  parent: silver-purification-crucible
+}
+requirements: [
+  aluminum/70
+  salt/40
+  silver/30
+  silver-chloride/10
+]
+ambientSound:hum
+ambientSoundVolume: 0.08
+researchCostMultiplier: 3
