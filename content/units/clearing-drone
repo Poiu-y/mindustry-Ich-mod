@@ -21,3 +21,17 @@ commands:[move]
 isEnemy:false
 itemCapacity: 0
 lowAltitude: true
+parts: [
+  {
+  type: HoverPart
+  x: 0
+  y: 0
+  mirror: false
+  under: true
+  color: 900080
+  phase: 90
+  stroke: 2
+  radius: 6
+  layerOffset: -0.001
+  }
+]
