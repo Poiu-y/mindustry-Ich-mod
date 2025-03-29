@@ -12,7 +12,7 @@ speed: 2.4
 rotateSpeed: 2
 accel: 0.09
 groundLayer: 50
-health: 156
+health: 10
 armor: 1
 hitSize: 6
 researchCostMultiplier: 1.5
