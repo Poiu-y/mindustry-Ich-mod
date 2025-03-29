@@ -1,0 +1,15 @@
+type: LiquidRouter
+name: simple conduit
+description: holds fluids, does not pump them.
+size: 1
+solid: false
+underBullets: true
+health: 40
+liquidCapacity: 10
+category: liquid
+squareSprite: false
+research: salt-refiner
+requirements: [
+  silver/10
+]
+researchCostMultiplier: 0.5
