@@ -12,3 +12,4 @@ requirements:[
 researchCostMultiplier:0.5
 hiddenOnPlanets: [serpulo, erekir]
 BuildVisablity:sandboxOnly
+placeablePlayer: false
