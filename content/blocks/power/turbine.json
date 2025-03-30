@@ -3,3 +3,8 @@ name:turbine
 category: power
 powerProduction: 10.1
 consumes: {}
+requirements: [
+  aluminum/50
+  silver/20
+  silver-chloride/5
+]
