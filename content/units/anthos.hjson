@@ -24,6 +24,13 @@ outlineColor:00413c
 hitSize:12
 researchCostMultiplier:0
 alwaysUnlocked:true
+abilities: [
+  {
+    type: LiquidExplodeAbility
+    liquid: hemolymph
+    amount: 150
+  }
+]
 weapons:[
   {
     x:0
