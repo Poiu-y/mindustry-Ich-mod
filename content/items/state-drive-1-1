@@ -1,0 +1,8 @@
+name:1-bit drive
+description:a small hardrive that stores one bit
+details:
+hardness:0.1
+cost:0.5
+research:magnesium
+hiddenOnPlanets: [serpulo, erekir]
+color:aaedaa
