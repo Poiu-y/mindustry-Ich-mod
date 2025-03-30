@@ -1,5 +1,7 @@
 type: ConsumeGenerator
 name:turbine
+description: generates power from ocean currents.
+size: 2
 category: power
 powerProduction: 10.1
 consumes: {}
