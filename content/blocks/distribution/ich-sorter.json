@@ -1,0 +1,10 @@
+type: Sorter
+name: current Sorter
+description: only allows the selected item forward, outputs others to the side
+category: distribution
+research: ich-duct
+requirements: [
+  aluminum/3
+  sodium/2
+]
+researchCostMultiplier: 0.5
