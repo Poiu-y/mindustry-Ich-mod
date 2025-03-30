@@ -11,8 +11,10 @@ outputItems: [
 ]
 consumes: {
   power: 1
-  salt/1
-  magnesium/1
+  items: [
+    salt/1
+    magnesium/1
+  ]
 }
 category: crafting
 research: {
