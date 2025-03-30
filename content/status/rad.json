@@ -1,0 +1,4 @@
+name: radiation poisoning
+damage: 0.1
+speedMultiplier: 0.4
+damageMultiplier: 0.5
