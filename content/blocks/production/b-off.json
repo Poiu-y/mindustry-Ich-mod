@@ -11,7 +11,9 @@ outputItems: [
 ]
 consumes: {
   power: 1
-  state-drive-1-1/1
+  items: [
+    state-drive-1-1/1
+  ]
 }
 category: crafting
 research: {
