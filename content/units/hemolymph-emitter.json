@@ -8,7 +8,7 @@ lifetime: 1
 rotateSpeed: 0
 trailLength: 0
 useUnitCap: false
-health: 10000
+health: 1
 homingDelay: 0
 shadowElevation: -1
 deathExplosionEffect: none
