@@ -18,3 +18,10 @@ isEnemy: false
 hitSize: 6
 commands: [move, rebuild, assist]
 buildSpeed: 0.8
+abilities: [
+  {
+    type: LiquidExplodeAbility
+    liquid: hemolymph
+    amount: 140
+  }
+]
