@@ -20,7 +20,14 @@ internal: true
 isEnemy: false
 engineSize: 0
 outlines: false
-hidden: true  
+hidden: true
+abilities: [
+  {
+    type: LiquidExplodeAbility
+    liquid: hemolymph
+    amount: 150
+  }
+]
 weapons: [
   {
     shoot: {
