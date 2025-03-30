@@ -1,1 +1,26 @@
-
+type: GenericCrafter
+name: coral growth chamber
+description: grows coral.
+size: 2
+craftTime: 60
+scaledHealth: 50
+squareSprite: false
+craftEffect: smeltsmoke
+outputItems: [
+  coral/1
+]
+consumes: {
+  power: 5
+}
+category: crafting
+research: {
+  parent: silver-purification-crucible
+}
+requirements: [
+  aluminum/40
+  salt/60
+  silver/35
+]
+ambientSound:hum
+ambientSoundVolume: 0.08
+researchCostMultiplier: 3
