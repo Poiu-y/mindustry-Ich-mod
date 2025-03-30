@@ -43,10 +43,9 @@ weapons: [
     rotate: false
     shootSound: spark
     bullet: {
-      type: LightningBulletType
-      damage: 12
-      lightningLength: 9
-      lightningColor: d46f6b
+      type: ExplosionBulletType
+      splashDamage: 70
+      splashDamageRadius: 70
     }
   }
 ]
