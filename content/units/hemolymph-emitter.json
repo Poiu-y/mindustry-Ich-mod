@@ -36,7 +36,7 @@ weapons: [
     }
     alwaysShooting: true
     reload: 180
-    shootOnDeath: false
+    shootOnDeath: true
     inaccuracy: 360
     shootCone: 360
     mirror: false
