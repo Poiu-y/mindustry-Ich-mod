@@ -1,1 +1,5 @@
 type: ConsumeGenerator
+name:turbine
+category: power
+powerProduction: 10.1
+consumes: {}
