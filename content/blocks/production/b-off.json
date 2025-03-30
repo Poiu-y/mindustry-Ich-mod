@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: fip-off
+description: writes 0 to hardrives
+size: 1
+craftTime: 10
+scaledHealth: 10
+squareSprite: false
+craftEffect: smeltsmoke
+outputItems: [
+  state-drive-1-0/1
+]
+consumes: {
+  power: 1
+  state-drive-1-1/1
+}
+category: crafting
+research: {
+  parent: silver-purification-crucible
+}
+requirements: [
+  aluminum/10
+  salt/10
+  silver/5
+]
+ambientSound:respawn
+ambientSoundVolume: 0.08
+researchCostMultiplier: 3
