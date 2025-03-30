@@ -1,6 +1,6 @@
 type: Sorter
 name: current Sorter
-description: only allows the selected item forward, outputs others to the side
+description: only allows the selected item forward, outputs others to the side.
 category: distribution
 research: ich-duct
 requirements: [
@@ -8,3 +8,4 @@ requirements: [
   sodium/2
 ]
 researchCostMultiplier: 0.5
+squareSprite:false
