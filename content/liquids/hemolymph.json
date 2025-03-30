@@ -1,1 +1,12 @@
-
+type: CellLiquid
+name:hemolymph
+description: blood
+temperature: 0
+coolant: false
+color: 007788
+colorFrom: 007777
+colorTo: 00aaaa
+explosiveness: 0
+flammability: 1
+incinerable: true
+viscosity: 0.95
