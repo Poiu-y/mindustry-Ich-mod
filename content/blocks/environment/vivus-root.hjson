@@ -14,3 +14,4 @@ researchCostMultiplier:0
 hiddenOnPlanets: [serpulo, erekir]
 BuildVisablity:sandboxOnly
 requiresUnlock:false
+placeablePlayer: false
