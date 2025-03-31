@@ -8,7 +8,6 @@ squareSprite: false
 craftEffect: smeltsmoke
 outputItems: [
   magnesium/1
-  salt/2
 ]
 consumes: {
   items: [
