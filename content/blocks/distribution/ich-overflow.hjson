@@ -1,0 +1,10 @@
+type: OverflowDuct
+speed: 4
+name: current overflow gate
+invert: false
+description: outputs items to the front if the side paths are blocked. Only accepts items at the back.
+requirements: [
+    sodium/2
+    salt/1
+  ]
+research: ich-duct-router
