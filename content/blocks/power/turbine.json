@@ -10,3 +10,14 @@ requirements: [
   silver/20
   silver-chloride/5
 ]
+drawer: {
+  type: DrawMulti
+  drawers: [
+      {
+      type: DrawRegion
+      suffix: -rotator
+      spinSprite: true
+      rotateSpeed: 0.8
+    }
+  ]
+}
