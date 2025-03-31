@@ -19,5 +19,8 @@ drawer: {
       spinSprite: true
       rotateSpeed: 0.8
     }
+    {
+      type: DrawDefault
+    }
   ]
 }
