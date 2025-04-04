@@ -1,0 +1,33 @@
+type: ConsumeGenerator
+name: flash pyrolysis igniter
+description: creates large amounts of power from burning coral, needs power to kickstart.
+size: 3
+category: power
+research: turbine
+requirements: [
+  aluminum/110
+  iridium/30
+  magnesium/40
+  salt/10
+]
+itemDuration: 60
+powerProduction: 1795
+consumes: {
+  itemFlammable: {}
+}
+ambientSound: extractLoop
+ambientSoundVolume: 0.01
+squareSprite: false
+ type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -base
+    }
+    {
+      type: DrawPistons
+      suffix: -piston
+      angleOffset: 45
+      sinMag: 3
+      sinScl: 3
+    }
