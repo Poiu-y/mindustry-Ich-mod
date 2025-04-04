@@ -1,0 +1,33 @@
+type: BurstDrill
+name: "iridium bore"
+description: "a drill that can mine iridium."
+size: 4
+category: production
+hardnessDrillMultiplier: 50
+research: tide-drill
+drillTime: 340
+hasPower: true
+tier: 3
+shake: 6
+itemCapacity: 30
+hasLiquids: false
+researchCostMultiplier: 0.5
+drillEffect: {
+  type: WaveEffect
+  sizeFrom: 0.1
+  sizeTo: 14
+  strokeFrom: 1.1
+  strokeTo: 0.3
+  colorFrom: 8f8d87
+  colorTo: 6b6a66
+  lifetime: 20
+}
+requirements: [
+  aluminum/158
+  salt/13
+  magnesium/90
+  silver-chloride/10
+  silver/50
+  sodium/15
+]
+squareSprite: false
