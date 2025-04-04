@@ -1,0 +1,14 @@
+type: BeamNode
+name: power transmitter
+description: transmits power orthogonally
+size: 1
+squareSprite: false
+laserRange: 6
+health: 40
+requirements: [
+  magnesium/20
+  salt/20
+]
+category: power
+research: turbine
+researchCostMultiplier: 0.5
