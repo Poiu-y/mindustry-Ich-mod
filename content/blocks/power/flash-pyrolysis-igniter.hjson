@@ -27,14 +27,14 @@ drawer: {
     }
     {
       type: DrawPistons
-      suffix: -piston
+      suffix: -pistion
       angleOffset: 45
       sinMag: 3
       sinScl: 3
     }
     {
       type: DrawPistons
-      suffix: -piston
+      suffix: -pistion
       angleOffset: 45
       sinMag: 2
       sinScl: 3
