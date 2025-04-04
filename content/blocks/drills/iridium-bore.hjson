@@ -9,6 +9,9 @@ drillTime: 340
 hasPower: true
 tier: 3
 shake: 6
+consumes: {
+  power: 1
+}
 itemCapacity: 30
 hasLiquids: false
 researchCostMultiplier: 0.5
