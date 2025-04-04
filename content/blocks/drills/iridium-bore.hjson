@@ -10,7 +10,7 @@ hasPower: true
 tier: 3
 shake: 6
 consumes: {
-  power: 1
+  power: 40
 }
 itemCapacity: 30
 hasLiquids: false
