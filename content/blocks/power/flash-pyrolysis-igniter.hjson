@@ -39,6 +39,6 @@ drawer: {
       sinMag: 2
       sinScl: 3
     }
-  }
-]
+  ]
+}
 researchCostMultiplier: 10
