@@ -18,6 +18,7 @@ consumes: {
 ambientSound: extractLoop
 ambientSoundVolume: 0.01
 squareSprite: false
+drawer: {
  type: DrawMulti
   drawers: [
     {
@@ -31,3 +32,13 @@ squareSprite: false
       sinMag: 3
       sinScl: 3
     }
+    {
+      type: DrawPistons
+      suffix: -piston
+      angleOffset: 45
+      sinMag: 2
+      sinScl: 3
+    }
+  }
+]
+researchCostMultiplier: 10
