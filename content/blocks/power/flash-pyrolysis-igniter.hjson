@@ -18,6 +18,7 @@ consumes: {
 ambientSound: extractLoop
 ambientSoundVolume: 0.01
 squareSprite: false
+//TODO update pistions
 drawer: {
   type: DrawMulti
   drawers: [
@@ -29,13 +30,13 @@ drawer: {
       type: DrawPistons
       suffix: -pistion
       angleOffset: 45
-      sinMag: 3
+      sinMag: 2
       sinScl: 3
     }
     {
       type: DrawPistons
       suffix: -pistion
-      angleOffset: 45
+      angleOffset: -45
       sinMag: 2
       sinScl: 3
     }
