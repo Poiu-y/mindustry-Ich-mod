@@ -19,7 +19,7 @@ ambientSound: extractLoop
 ambientSoundVolume: 0.01
 squareSprite: false
 drawer: {
- type: DrawMulti
+  type: DrawMulti
   drawers: [
     {
       type: DrawRegion
