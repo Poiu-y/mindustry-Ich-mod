@@ -1,7 +1,11 @@
-name:"fin air"
+name:"Fin"
 type:legs
-description: "a test of game mechanics, just a placeholder"
-details:"(if this works, some mechanics of this might be added to ich at some point)"
+description: '''
+nimble watercraft designed to destroy nuclear weapons, without detonating them, 
+
+made by the rourtok
+'''
+details:""
 hideDetails:false
 speed:2
 health:260
