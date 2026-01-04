@@ -1,0 +1,88 @@
+name:"fin air"
+type:legs
+description: "a test of game mechanics, just a placeholder"
+details:"(if this works, some mechanics of this might be added to ich at some point)"
+hideDetails:false
+speed:2
+health:260
+commands:[move, repair, rebuild, assist]
+armor:2
+flying:true
+mineTier:1
+mineFloor:true
+mineSpeed:3.4
+legExtension: 0
+buildSpeed:0.6
+legMoveSpace:0.9
+hovering:false
+isEnemy:false
+legCount:6
+legSpeed:0.05
+legForwardScl: -0.5
+legGroupSize: 3
+legBaseOffset:4.9
+#legStraightLength:3
+legLength: 20
+lockLegBase: true
+legContinuousMove: true
+itemCapacity:10
+hovering: true
+outlineColor: 44413c
+hitSize:20
+researchCostMultiplier:0
+omniMovement: false
+faceTarget: false
+lowAltitude:true
+useEngineElevation:false
+rippleScale: 0
+wobble:true
+baseLegStraightness: 1
+legStraightness: 1
+engines: [
+  {
+    x: 0
+    y: -9
+    radius: 1.5
+  }
+]
+weapons: [
+  {
+    x: 0
+    y: -3
+    name: false-air-second-turret
+    mirror: false
+    rotate: true
+    reload: 36
+    shoot: {
+      shots: 3
+      shotDelay: 10
+    }
+    bullet: {
+      type: BasicBulletType
+      damage: 25
+      lifetime: 40
+    }
+  }
+  {
+    x: 0
+    y: 3
+    name: false-air-primary-turret
+    mirror: false
+    rotate: true
+    reload: 60
+    shoot: {
+      shots: 1
+      shotDelay: 90
+    }
+    bullet: {
+      type: BasicBulletType
+      damage: 40
+      lifetime: 70
+      height: 20
+      pierce: true
+      pierceCap: 6
+      pierceBuilding: true
+      buildingDamageMultiplier: 1.25
+    }
+  }
+]
