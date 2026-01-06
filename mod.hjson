@@ -16,12 +16,11 @@ description:
 [#ff0000]IF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT[]. 
 
 thanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets
+
+this mod is unfinished
 '''
 #the mod version
-version: 1.0
+version: 0.1
 
 #the minimum game build required to run this mod
 minGameVersion: 145
-
-#this is a java mod
-#java: true
