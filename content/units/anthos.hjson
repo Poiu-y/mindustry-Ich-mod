@@ -64,4 +64,5 @@ weapons:[
   }
 ]
 research: core-vent
-
+lockLegBase: true
+legContinuousMove: true
