@@ -66,3 +66,5 @@ weapons:[
 research: core-vent
 lockLegBase: true
 legContinuousMove: true
+baseLegStraightness: 1
+legStraightness: 0
