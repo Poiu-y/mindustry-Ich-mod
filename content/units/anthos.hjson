@@ -3,7 +3,7 @@ name:Anthos
 description:"engineered lifeform with a magnesium carbonate exoskeleton, no [#99ff00]one knows who created them."
 details:"your kind"
 hideDetails:false
-speed:0.5
+speed:1
 health:180
 commands:[move, repair, rebuild, assist]
 armor:1
