@@ -1,6 +1,6 @@
 type: canvasBlock
 canvasSize: 16
-palette: { 000000, ffffff }
+#palette: { 000000, ffffff }
 bitsPerPixel: 1
 side1:
 side2:
