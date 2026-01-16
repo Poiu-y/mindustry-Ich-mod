@@ -6,8 +6,9 @@ coolant: false
 color: 00ffdd
 colorFrom: 007766
 colorTo: a800a8
-explosiveness: 0
+explosiveness: 1
 flammability: 0
 incinerable: false
 viscosity: 0.75
 spreadTarget: clorine
+particleEffect: oily
