@@ -7,3 +7,4 @@ statusDuration: 60
 overlayAlpha: 1
 cacheLayer: cryofluid
 variants: 3
+drownTime: 90
