@@ -2,7 +2,7 @@ type: canvasBlock
 canvasSize: 16
 size:3
 palette: { "000000": "ffffff" }
-colorToIndex: (000000, ffffff)
+#colorToIndex: (000000, ffffff)
 side1: 
 side2:
 corner1:
