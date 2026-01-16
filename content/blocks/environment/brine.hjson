@@ -1,0 +1,9 @@
+type: floor
+isLiquid: true
+status: anoxia
+#brine as a liquid may be added in the future
+#liquidDrop: 
+statusDuration: 60
+overlayAlpha: 1
+cacheLayer: cryofluid
+variants: 3
