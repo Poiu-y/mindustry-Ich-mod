@@ -6,7 +6,7 @@ palette: {
   0x362944_ff:
   0xc45d9f_ff
 }
-#colorToIndex: (000000, ffffff)
+colorToIndex: 2
 side1: 
 side2:
 corner1:
