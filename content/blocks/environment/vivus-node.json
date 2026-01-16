@@ -19,3 +19,4 @@ requirements: [
   salt/200
 ]
 placeablePlayer: false
+drawTeamOverlay: false
