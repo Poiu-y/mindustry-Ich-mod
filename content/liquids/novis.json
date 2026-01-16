@@ -12,3 +12,7 @@ incinerable: false
 viscosity: 0.75
 spreadTarget: clorine
 particleEffect: corrosionVapor
+#capPuddles: false
+effect: rad
+gasColor: a800a8
+lightColor: 00ffddaa
