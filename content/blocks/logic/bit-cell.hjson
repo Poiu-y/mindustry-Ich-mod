@@ -1,8 +1,10 @@
 type: canvasBlock
 canvasSize: 16
-#palette: { 000000, ffffff }
-bitsPerPixel: 1
-side1:
+size:3
+palette: { 000000, ffffff }
+colorToIndex: (0, 1)
+side1: 
 side2:
 corner1:
 corner2:
+name: "bit cell"
