@@ -1,5 +1,5 @@
 disarm: true
-healthMultiplier: 0.1
+healthMultiplier: 0.5
 speedMultiplier: 0.1
 buildSpeedMultiplier: 0
 intervalDamage: 5
