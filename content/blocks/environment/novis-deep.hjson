@@ -6,5 +6,5 @@ statusDuration: 90
 overlayAlpha: 1
 cacheLayer: tar
 variants: 1
-drawLiquidLight: true
-lightLiquid: novis
+emitLight: true
+lightColor: 
