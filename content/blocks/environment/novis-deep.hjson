@@ -4,5 +4,5 @@ status: rad
 liquidDrop: novis
 statusDuration: 90
 overlayAlpha: 1
-cacheLayer: mud
+cacheLayer: tar
 variants: 1
