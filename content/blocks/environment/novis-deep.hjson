@@ -1,0 +1,7 @@
+type: floor
+isLiquid: true
+status: rad
+liquidDrop: novis
+statusDuration: 90
+overlayAlpha: 1
+cacheLayer: tar
