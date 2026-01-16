@@ -1,3 +1,4 @@
+type: canvas
 canvasSize: 16
 palette: {}
 bitsPerPixel: 1
