@@ -7,4 +7,4 @@ overlayAlpha: 1
 cacheLayer: tar
 variants: 1
 emitLight: true
-lightColor: 
+lightColor: 00ffddaa
