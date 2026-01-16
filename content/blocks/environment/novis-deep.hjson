@@ -4,7 +4,7 @@ status: rad
 liquidDrop: novis
 statusDuration: 90
 overlayAlpha: 1
-cacheLayer: tar
+cacheLayer: cryofluid
 variants: 1
 emitLight: true
 lightColor: 00ffddaa
