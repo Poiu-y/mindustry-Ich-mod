@@ -11,4 +11,4 @@ flammability: 0
 incinerable: false
 viscosity: 0.75
 spreadTarget: clorine
-particleEffect: oily
+particleEffect: corrosionVapor
