@@ -1,7 +1,7 @@
 type: canvasBlock
 canvasSize: 16
 size:3
-padding: 7
+padding: 1
 palette: [
   362944,
   16777215
