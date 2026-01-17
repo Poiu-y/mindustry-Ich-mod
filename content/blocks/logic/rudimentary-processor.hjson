@@ -1,0 +1,11 @@
+type: LogicBlock
+instructionsPerTick: 1
+range: 1
+name: "Rudimentary Processor"
+research: bit-cell
+hasPower: true
+category: logic
+consumes: {
+  power: 1
+}
+#requirements: [ ]
