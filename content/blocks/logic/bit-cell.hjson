@@ -17,7 +17,7 @@ side2:
 corner1:
 corner2:
 name: "bit cell"
-#this is broken
+#i don't know what i did, but it somehow works?
 research: core-vent
 requirements: [
   aluminum/258
