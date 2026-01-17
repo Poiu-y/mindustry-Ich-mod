@@ -8,8 +8,8 @@ palette: {
   0x000000_ff:
   0xffffff_ff
 }
-new IntIntMap()
-"bitsPerPixel": 1
+colorToIndex: new IntIntMap()
+bitsPerPixel: 1
 side1: 
 side2:
 corner1:
