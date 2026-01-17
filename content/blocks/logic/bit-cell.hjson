@@ -8,7 +8,7 @@ palette: {
   0x362944_ff:
   0xc45d9f_ff
 }
-colorToIndex: IntIntMap(0,1)
+colorToIndex: (0,1)
 bitsPerPixel: 1
 side1: 
 side2:
