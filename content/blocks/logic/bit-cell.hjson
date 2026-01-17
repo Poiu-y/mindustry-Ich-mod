@@ -1,14 +1,14 @@
 type: canvasBlock
 canvasSize: 16
 size:3
-#palette: { 
-#  000000: 
-#  ffffff 
 palette: [
   0,
   1
 ]
-colorToIndex: {0:000000, 1:ffffff}
+colorToIndex: {
+  000000:0, 
+  ffffff:1
+}
 #bitsPerPixel: 0
 side1: 
 side2:
