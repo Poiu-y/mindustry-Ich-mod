@@ -8,7 +8,7 @@ palette: [
   0,
   1
 ]
-colorToIndex: [000000, ffffff]
+colorToIndex: {000000:0, ffffff:1}
 #bitsPerPixel: 0
 side1: 
 side2:
