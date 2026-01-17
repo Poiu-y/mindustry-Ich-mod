@@ -5,11 +5,11 @@ size:3
 #  000000: 
 #  ffffff 
 palette: [
-  000000,
-  999999
+  0,
+  1
 ]
 #colorToIndex: new IntIntMap()
-bitsPerPixel: 1
+#bitsPerPixel: 0
 side1: 
 side2:
 corner1:
