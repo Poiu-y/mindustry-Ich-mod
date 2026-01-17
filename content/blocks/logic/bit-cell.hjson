@@ -4,11 +4,11 @@ size:3
 #palette: { 
 #  000000: 
 #  ffffff 
-palette: {
-  0x000000_ff:
+palette: [
+  0x000000_ff,
   0xffffff_ff
-}
-colorToIndex: new IntIntMap()
+]
+#colorToIndex: new IntIntMap()
 bitsPerPixel: 1
 side1: 
 side2:
