@@ -5,8 +5,8 @@ size:3
 #  000000: 
 #  ffffff 
 palette: [
-  0x000000_ff,
-  0xffffff_ff
+  000000,
+  ffffff
 ]
 #colorToIndex: new IntIntMap()
 bitsPerPixel: 1
