@@ -6,7 +6,7 @@ size:3
 #  ffffff 
 palette: [
   000000,
-  111111
+  999999
 ]
 #colorToIndex: new IntIntMap()
 bitsPerPixel: 1
