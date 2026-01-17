@@ -3,7 +3,7 @@ canvasSize: 16
 size:3
 palette: [
   362944,
-  ffffff
+  16777215
 ]
 colorToIndex: {
   000000:0, 
