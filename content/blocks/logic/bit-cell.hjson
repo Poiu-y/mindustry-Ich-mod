@@ -17,3 +17,12 @@ corner2:
 name: "bit cell"
 #this is broken
 research: core-vent
+requirements: [
+  aluminum/258
+  iridium/60
+  magnesium/40
+  salt/10
+  silver/50
+  state-drive-1-0/16
+  state-drive-1-1/16
+]
