@@ -5,10 +5,10 @@ size:3
 #  000000: 
 #  ffffff 
 palette: {
-  0x362944_ff:
-  0xc45d9f_ff
+  0x000000_ff:
+  0xffffff_ff
 }
-colorToIndex: (0,1)
+new IntIntMap()
 bitsPerPixel: 1
 side1: 
 side2:
