@@ -2,8 +2,8 @@ type: canvasBlock
 canvasSize: 16
 size:3
 palette: [
-  0x362944,
-  0xffffff
+  362944,
+  ffffff
 ]
 colorToIndex: {
   000000:0, 
