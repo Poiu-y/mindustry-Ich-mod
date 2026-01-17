@@ -9,7 +9,7 @@ palette: {
   0xffffff_ff
 }
 new IntIntMap()
-bitsPerPixel: 1
+"bitsPerPixel": 1
 side1: 
 side2:
 corner1:
