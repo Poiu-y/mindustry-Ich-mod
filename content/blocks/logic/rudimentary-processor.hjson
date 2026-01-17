@@ -6,6 +6,13 @@ research: bit-cell
 hasPower: true
 category: logic
 consumes: {
-  power: 1
+  power: 0.5
 }
-#requirements: [ ]
+requirements: [
+  aluminum/28
+  magnesium/10
+  salt/5
+  silver/30
+  state-drive-1-0/16
+  state-drive-1-1/16
+]
