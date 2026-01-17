@@ -9,7 +9,7 @@ colorToIndex: {
   000000:0, 
   ffffff:1
 }
-#bitsPerPixel: 0
+bitsPerPixel: 6
 side1: 
 side2:
 corner1:
