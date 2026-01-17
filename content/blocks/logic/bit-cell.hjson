@@ -8,7 +8,7 @@ palette: [
   0,
   1
 ]
-#colorToIndex: new IntIntMap()
+colorToIndex: IntIntMap()
 #bitsPerPixel: 0
 side1: 
 side2:
