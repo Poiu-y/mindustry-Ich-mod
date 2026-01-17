@@ -10,7 +10,7 @@ colorToIndex: {
   000000:0, 
   ffffff:1
 }
-
+BuildVisablity: shown
 bitsPerPixel: 6
 side1: 
 side2:
