@@ -9,6 +9,7 @@ palette: {
 #  0xc45d9f_ff
 }
 colorToIndex: new IntIntMap(0,1)
+bitsPerPixel: 1
 side1: 
 side2:
 corner1:
