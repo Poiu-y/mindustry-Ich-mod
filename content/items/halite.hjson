@@ -1,0 +1,8 @@
+name: Halite
+description: An intact piece of rock salt, formed by the evaporation of saltwater, transparent, edible
+hardness:0.2
+cost:0.5
+research: salt
+hiddenOnPlanets: [serpulo, erekir]
+color:ffedff
+details: "sought for its culinary uses, often used in anthok dishes... but that is not relivent to the war at hand."
