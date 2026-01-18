@@ -68,3 +68,4 @@ lockLegBase: true
 legContinuousMove: true
 baseLegStraightness: 1
 legStraightness: 0
+legBaseOffset:0.1
