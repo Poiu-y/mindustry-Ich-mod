@@ -18,6 +18,7 @@ side1:
 side2:
 corner1:
 corner2:
+category: logic
 name: "bit cell"
 #i don't know what i did, but it somehow works?
 research: core-vent
