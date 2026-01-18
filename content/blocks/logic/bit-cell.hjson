@@ -3,8 +3,10 @@ canvasSize: 16
 size:3
 padding: 1
 palette: [
-  362944,
-  16777215
+#  362944,
+#  16777215
+  111111,
+  999999
 ]
 colorToIndex: {
   000000:0, 
