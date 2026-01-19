@@ -2,7 +2,9 @@ category: crafting
 type: HeatProducer
 heatOutput: 3
 warmupRate: 1.5
-outputItem: halite
+outputItems: [
+  halite/30
+]
 health: 230
 parent: silver-purification-crucible
 requirements: [
