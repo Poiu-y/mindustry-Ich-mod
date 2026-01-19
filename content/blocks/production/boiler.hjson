@@ -4,10 +4,8 @@ heatOutput: 3
 size:2 
 consumes: {
   power: 4
+    halite/-30
 }
-outputItems: [
-  halite/30
-]
 health: 230
 parent: silver-purification-crucible
 requirements: [
