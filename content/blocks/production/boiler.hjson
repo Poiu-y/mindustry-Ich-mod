@@ -4,3 +4,9 @@ heatOutput: 3
 warmupRate: 1.5
 outputItem: halite
 health: 230
+requirements: [
+  aluminum/60
+  magnesium/30
+  silver/40
+  sodium/25
+]
