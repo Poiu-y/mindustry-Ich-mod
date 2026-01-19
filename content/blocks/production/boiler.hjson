@@ -1,0 +1,6 @@
+category: crafting
+type: HeatProducer
+heatOutput: 3
+warmupRate: 1.5
+outputItem: halite
+health: 230
