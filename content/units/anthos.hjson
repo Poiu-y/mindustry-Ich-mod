@@ -72,3 +72,5 @@ legContinuousMove: true
 baseLegStraightness: 1
 legStraightness: 0
 legBaseOffset:0.1
+drawMineBeam: false
+drawBuildBeam: false
