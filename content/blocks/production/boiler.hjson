@@ -8,6 +8,7 @@ consumes: {
     halite/-3
   ]
 }
+outputItem: halite/0
 health: 230
 parent: silver-purification-crucible
 requirements: [
