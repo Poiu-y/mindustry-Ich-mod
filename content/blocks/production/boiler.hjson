@@ -3,7 +3,9 @@ type: HeatProducer
 heatOutput: 3
 warmupRate: 1.5
 size:2 
-consPower: 4
+consumes: {
+  power: 2.5
+}
 outputItems: [
   halite/30
 ]
