@@ -4,6 +4,7 @@ heatOutput: 3
 warmupRate: 1.5
 outputItem: halite
 health: 230
+parent: silver-purification-crucible
 requirements: [
   aluminum/60
   magnesium/30
