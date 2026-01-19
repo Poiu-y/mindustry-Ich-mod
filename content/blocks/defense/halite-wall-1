@@ -1,0 +1,17 @@
+type: Wall
+name: Halite Wall
+description: transparent wall, blocks electrical arcs and power connections, fragile
+size: 1
+health: 100
+squareSprite: false
+requirements: [
+  halite/6
+]
+research: aluminum-wall-1
+category: defense
+researchCostMultiplier: 0.05
+hasShadow: false
+fillsTile: false
+obstructsLight: false
+insulated: true
+connectedPower: false
