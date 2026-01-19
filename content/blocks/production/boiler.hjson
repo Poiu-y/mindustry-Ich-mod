@@ -2,6 +2,8 @@ category: crafting
 type: HeatProducer
 heatOutput: 3
 warmupRate: 1.5
+size:2 
+consPower: 4
 outputItems: [
   halite/30
 ]
