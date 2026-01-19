@@ -4,7 +4,9 @@ heatOutput: 3
 size:2 
 consumes: {
   power: 4
+  items:[
     halite/-30
+  ]
 }
 health: 230
 parent: silver-purification-crucible
