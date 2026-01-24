@@ -2,5 +2,5 @@ type:OreBlock
 name:salt
 itemDrop:salt
 attributes: {
-  "heat"
+  "heat":
 }
