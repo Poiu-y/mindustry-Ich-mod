@@ -14,6 +14,7 @@ itemDuration: 60
 powerProduction: 29.9166
 consumes: {
   itemFlammable: {}
+    power/6
 }
 ambientSound: extractLoop
 ambientSoundVolume: 0.01
