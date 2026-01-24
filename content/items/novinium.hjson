@@ -2,7 +2,7 @@ name: Novinium
 description: "crystalized Novis merged with coral skeleton fragments, mildly radioactive, explodes violently when damaged."
 charge: 0.5
 explosiveness: 1
-flammability:0.29
+flammability: 0.3
 radioactivity: 0.8
 hardness:9
 cost: 20
