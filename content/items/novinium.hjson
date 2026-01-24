@@ -1,1 +1,14 @@
-
+name: Novinium 
+description: "crystalized Novis merged with coral skeleton fragments, mildly radioactive, explodes violently when damaged."
+charge: 0.5
+explosiveness: 1
+flammability:0.3
+radioactivity: 0.8
+hardness:9
+cost: 20
+research: salt
+hiddenOnPlanets: [serpulo, erekir]
+color:ffedff
+details: "still living sentient matter, usefull for compact nuclear weapons, and a valueable resource in this war"
+healthScaling: 0.99
+color: 00ffdd99
