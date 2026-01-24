@@ -1,4 +1,4 @@
 type:OreBlock
 name:salt
 itemDrop:salt
-attributes: ich-salty
+attributes: heat
