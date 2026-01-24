@@ -18,3 +18,4 @@ attribute: salt
 baseEfficiency: 0
 boostScale: 0.5
 maxBoost:2
+minEfficiency: 1
