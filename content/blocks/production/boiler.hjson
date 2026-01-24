@@ -18,5 +18,6 @@ requirements: [
   sodium/25
 ]
 attribute: salt
-baseEfficiency: -1
+baseEfficiency: 0
 boostScale: 0.5
+maxBoost:2
