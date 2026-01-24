@@ -17,6 +17,6 @@ requirements: [
   silver/40
   sodium/25
 ]
-attribute: heat
+attribute: salt
 baseEfficiency: -1
 boostScale: 0.5
