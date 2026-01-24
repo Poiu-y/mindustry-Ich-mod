@@ -31,10 +31,6 @@ drawer: {
   type: DrawMulti
   drawers: [
     {
-      type: DrawRegion
-      suffix: -base
-    }
-    {
       type: DrawDefault
     }
     {
