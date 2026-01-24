@@ -18,3 +18,5 @@ requirements: [
   sodium/25
 ]
 attribute: heat
+baseEfficiency: -1
+boostScale: 0.5
