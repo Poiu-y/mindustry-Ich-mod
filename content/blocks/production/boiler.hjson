@@ -16,6 +16,6 @@ requirements: [
 ]
 attribute: salt
 baseEfficiency: 0
-boostScale: 0.5
-maxBoost:2
+boostScale: 1
+maxBoost:4
 minEfficiency: 1
