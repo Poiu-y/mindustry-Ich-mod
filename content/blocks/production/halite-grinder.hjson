@@ -1,0 +1,57 @@
+type: GenericCrafter
+name: "Halite Grinder"
+description: "Grinds Halite into Salt"
+size: 1
+craftTime: 35
+scaledHealth: 10
+squareSprite: false
+craftEffect: smeltsmoke
+outputItems: [
+  salt/3
+]
+consumes: {
+  power: 6
+  items: [
+    halite/2
+  ]
+}
+category: crafting
+research: {
+  parent: silver-purification-crucible
+}
+requirements: [
+  aluminum/30
+  salt/60
+  silver/70
+]
+ambientSound: grinding
+ambientSoundVolume: 0.09
+researchCostMultiplier: 3
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -base
+    }
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawRegion
+      suffix: -cog_lower
+      spinSprite: true
+      rotateSpeed: -1.1
+    }
+    {
+      type: DrawRegion
+      suffix: -cog_top
+      spinSprite: true
+      rotateSpeed: 1.2
+    }
+    {
+      type: DrawRegion
+      suffix: -top
+    } 
+  ]
+}
