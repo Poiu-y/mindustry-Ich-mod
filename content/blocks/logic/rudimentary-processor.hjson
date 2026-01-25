@@ -1,6 +1,6 @@
 type: LogicBlock
 instructionsPerTick: 1
-range: 10
+range: 100
 name: "Rudimentary Processor"
 research: bit-cell
 hasPower: true
