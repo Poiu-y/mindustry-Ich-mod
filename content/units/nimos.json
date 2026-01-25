@@ -23,6 +23,7 @@ isEnemy:false
 itemCapacity: 1
 lowAltitude: true
 immunities: ["rad","anoxia"]
+canDrown: false
 weapons: [
   {
     x: 1.6
