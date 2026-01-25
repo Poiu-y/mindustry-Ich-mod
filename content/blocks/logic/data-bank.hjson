@@ -1,0 +1,14 @@
+name: "Data Bank"
+type: "memoryBlock"
+size: 6
+research: bit-cell
+requirements: [
+  aluminum/774
+  iridium/120
+  magnesium/120
+  salt/135
+  silver/158
+  state-drive-1-0/45
+  state-drive-1-1/45
+]
+memoryCapacity: 2048
