@@ -10,3 +10,8 @@ explosiveness: 0
 flammability: 1
 incinerable: true
 viscosity: 0.95
+capPuddles: false
+cells: 20
+spreadTarget: water
+spreadDamage: 0
+maxSpread: 1
