@@ -24,7 +24,7 @@ requirements: [
   salt/60
   silver/70
 ]
-ambientSound: grinding
+ambientSound: none
 ambientSoundVolume: 0.09
 researchCostMultiplier: 3
 drawer: {
