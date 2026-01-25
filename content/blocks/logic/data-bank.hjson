@@ -12,3 +12,4 @@ requirements: [
   state-drive-1-1/45
 ]
 memoryCapacity: 2048
+category: logic
