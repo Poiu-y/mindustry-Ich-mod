@@ -23,3 +23,5 @@ research:{
   requiresUnlock:false
 }
 hiddenOnPlanets: [serpulo, erekir]
+solid: true
+teamPassable: true
