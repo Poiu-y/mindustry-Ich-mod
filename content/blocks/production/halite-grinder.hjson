@@ -5,7 +5,7 @@ size: 1
 craftTime: 35
 scaledHealth: 10
 squareSprite: false
-craftEffect: steamCoolSmoke
+craftEffect: none
 outputItems: [
   salt/3
 ]
@@ -24,7 +24,7 @@ requirements: [
   salt/60
   silver/70
 ]
-ambientSound: none
+ambientSound: grinding
 ambientSoundVolume: 0.09
 researchCostMultiplier: 3
 drawer: {
