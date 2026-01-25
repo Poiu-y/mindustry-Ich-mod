@@ -14,7 +14,7 @@ accel: 0.095
 groundLayer: 50
 health: 156
 armor: 1
-hitSize: 12
+hitSize: 6
 researchCostMultiplier: 1.5
 research: core-vent
 commands:[move, rebuild, assist]
@@ -22,6 +22,7 @@ buildSpeed:0.7
 isEnemy:false
 itemCapacity: 1
 lowAltitude: true
+immunities: ["rad","anoxia"]
 weapons: [
   {
     x: 1.6
