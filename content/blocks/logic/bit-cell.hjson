@@ -31,3 +31,4 @@ requirements: [
   state-drive-1-0/16
   state-drive-1-1/16
 ]
+memoryCapacity: 256
