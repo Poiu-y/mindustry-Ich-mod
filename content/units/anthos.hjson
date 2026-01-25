@@ -29,6 +29,7 @@ abilities: [
     type: LiquidExplodeAbility
     liquid: hemolymph
     amount: 150
+    radAmountScale: 15
   }
 ]
 weapons:[
