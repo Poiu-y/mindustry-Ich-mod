@@ -62,7 +62,7 @@ parts: [
   teamColor:true
   phase: 90
   stroke: 2
-  radius: 80
+  radius: 4
   layerOffset: -0.001
   }
   {
