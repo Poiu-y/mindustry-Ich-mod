@@ -7,6 +7,7 @@ research:core-vent
 speed:5
 health:40
 bridgeReplacement:ich-duct-bridge
+junctionReplacement:ich-duct-junction
 requirements:[
   aluminum/1
 ]
