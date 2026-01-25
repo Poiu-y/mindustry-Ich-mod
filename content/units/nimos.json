@@ -24,7 +24,7 @@ itemCapacity: 1
 lowAltitude: true
 immunities: ["rad","anoxia"]
 canDrown: false
-buildRange: 100
+buildRange: 70
 weapons: [
   {
     x: 1.6
