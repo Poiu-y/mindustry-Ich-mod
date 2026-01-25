@@ -9,6 +9,7 @@ liquidCapacity: 10
 category: liquid
 squareSprite: false
 research: salt-refiner
+deconstructDropAllLiquid: true
 requirements: [
   silver/10
 ]
