@@ -24,7 +24,7 @@ name: "bit cell"
 research: core-vent
 requirements: [
   aluminum/258
-  iridium/60
+  #iridium/60
   magnesium/40
   salt/10
   silver/50
