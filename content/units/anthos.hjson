@@ -77,3 +77,4 @@ drawMineBeam: false
 drawBuildBeam: false
 #allowLegStep: false
 #legPhysicsLayer: false
+coreUnitDock: true
