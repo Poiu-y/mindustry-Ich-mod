@@ -59,10 +59,10 @@ parts: [
   y: 0.5
   mirror: true
   under: true
-  color: 900080
+  teamColor:true
   phase: 90
   stroke: 2
-  radius: 1
+  radius: 80
   layerOffset: -0.001
   }
   {
@@ -72,7 +72,7 @@ parts: [
     radius: 6
     mirror: false
     under: true
-    color: 900080
+    teamColor:true
   phase: 90
   stroke: 2
   layerOffset: -0.001
