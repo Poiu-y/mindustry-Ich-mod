@@ -78,3 +78,4 @@ drawBuildBeam: false
 #allowLegStep: false
 #legPhysicsLayer: false
 coreUnitDock: true
+lightRadius: 0
