@@ -76,6 +76,6 @@ legBaseOffset:0.1
 drawMineBeam: false
 drawBuildBeam: false
 #allowLegStep: false
-#legPhysicsLayer: false
+legPhysicsLayer: false
 coreUnitDock: true
 lightRadius: 0
