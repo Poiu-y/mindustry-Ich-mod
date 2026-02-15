@@ -42,6 +42,7 @@ rippleScale: 0
 wobble:true
 baseLegStraightness: 1
 legStraightness: 1
+engineLayer: 1
 engines: [
   {
     x: 0
