@@ -43,6 +43,7 @@ wobble:true
 baseLegStraightness: 1
 legStraightness: 1
 engineLayer: 1
+useEngineElavation: false
 engines: [
   {
     x: 0
