@@ -16,3 +16,4 @@ solid: true
 floating: true
 teamPassable: false
 solidifes: true
+forceDark: true
