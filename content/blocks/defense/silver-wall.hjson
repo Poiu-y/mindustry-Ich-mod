@@ -7,7 +7,7 @@ squareSprite: false
 requirements: [
   silver/54
   salt/20
-  silver-cloride/10
+  silver-chloride/10
 ]
 research: aluminum-wall-1
 category: defense
