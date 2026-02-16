@@ -10,6 +10,15 @@ category: liquid
 squareSprite: false
 research: salt-refiner
 deconstructDropAllLiquid: true
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawLiquidRegion
+      suffix: -liquid
+    }
+  ]
+}
 requirements: [
   silver/10
 ]
