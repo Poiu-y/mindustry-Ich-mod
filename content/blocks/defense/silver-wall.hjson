@@ -1,0 +1,15 @@
+type: Wall
+name: Silver Wall
+description: A huge wall that prevents low flying craft from passing, and blocks traversal from most legged units. Can be placed on the edges of deep fluids.
+size: 3
+health: 400
+squareSprite: false
+requirements: [
+  silver/54
+  salt/20
+]
+research: aluminum-wall-1
+category: defense
+researchCostMultiplier: 0.05
+solid: true
+floating: true
