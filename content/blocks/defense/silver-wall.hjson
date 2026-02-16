@@ -2,7 +2,7 @@ type: Wall
 name: Silver Wall
 description: A huge wall that can be placed on the edges of deep fluids.
 size: 3
-health: 400
+health: 4500
 squareSprite: false
 requirements: [
   silver/54
