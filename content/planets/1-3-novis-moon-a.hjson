@@ -3,7 +3,7 @@ solarSystem:"1-0-verd"
 localizedName: "Novis Moon (placeholder name)"
 mesh: {
   type:noiseMesh
-  planet:1-3-novis-moon-A
+  planet:1-3-novis-moon-a
   seed:14
   divisions:1
   color1:7d6868
@@ -16,7 +16,7 @@ mesh: {
 }
 mesh: {
   type:noiseMesh
-  planet:1-3-novis-moon-A
+  planet:1-3-novis-moon-a
   seed:14
   divisions:4
   color1:7d6868
