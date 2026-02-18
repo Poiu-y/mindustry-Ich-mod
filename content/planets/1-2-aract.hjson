@@ -9,10 +9,10 @@ mesh: {
   color1:7d6868
   color2:8bd8df
   radius:0.2
-  octaves:3
+  octaves:0.3
   persistence:0.1
   scale:45
-  mag:1.5
+  mag:0.5
 }
 icon: planet
 hasAtmosphere:false
