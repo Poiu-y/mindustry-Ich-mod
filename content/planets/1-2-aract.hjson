@@ -1,0 +1,21 @@
+parent:"1-1-itch"
+solarSystem:"1-0-verd"
+localizedName:Aract
+mesh: {
+  type:noiseMesh
+  planet:1-2-aract
+  seed:14
+  divisions:4
+  color1:7d6868
+  color2:8bd8df
+  radius:0.8
+  octaves:3
+  persistence:0.8
+  scale:0.2
+  mag:1.5
+}
+icon: planet
+hasAtmosphere:false
+bloom:false
+tidalLock: true
+orbitSpacing: 5
