@@ -11,7 +11,7 @@ mesh: {
   radius:0.8
   octaves:3
   persistence:0.8
-  scale:0.2
+  scale:10
   mag:1.5
 }
 icon: planet
@@ -20,3 +20,4 @@ bloom:false
 tidalLock: true
 orbitSpacing: 5
 orbitRadius: 5
+radius:0.2
