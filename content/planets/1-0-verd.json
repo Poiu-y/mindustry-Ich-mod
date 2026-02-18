@@ -37,4 +37,4 @@ drawOrbit:false
 tidalLock: true
 iconColor: ffe16f
 icon: commandRally
-radius:5
+radius:15
