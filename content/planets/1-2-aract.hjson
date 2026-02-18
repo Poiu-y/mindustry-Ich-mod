@@ -5,7 +5,7 @@ mesh: {
   type:noiseMesh
   planet:1-2-aract
   seed:14
-  divisions:4
+  divisions:1
   color1:7d6868
   color2:8bd8df
   radius:0.2
