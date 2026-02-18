@@ -12,7 +12,7 @@ mesh: {
   octaves:9
   persistence:0.1
   scale:45
-  mag:1.5
+  mag:10
 }
 icon: planet
 hasAtmosphere:false
