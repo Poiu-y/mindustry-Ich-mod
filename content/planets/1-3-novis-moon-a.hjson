@@ -27,6 +27,10 @@ mesh: {
   scale:45
   mag:1.9
 }
+
+atmosphereRadIn:0
+atmosphereRadOut:0.6
+
 icon: planet
 hasAtmosphere:true
 atmosphereColor:bcb2a9
