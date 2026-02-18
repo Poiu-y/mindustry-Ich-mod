@@ -67,4 +67,5 @@ parent:"1-0-verd"
 solarSystem:"1-0-verd"
 launchCanadets:[]
 defaultEnv: ["underwater","terrestrial","oxygen"]
+orbitRadius: 100
 #a
