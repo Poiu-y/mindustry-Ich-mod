@@ -38,8 +38,10 @@ bloom:false
 tidalLock: true
 orbitSpacing: 5
 orbitRadius: 7
-radius:0.3
+radius:0.4
+
 #TODO make the first sector
+
 accessable: false
 visable:true
 
