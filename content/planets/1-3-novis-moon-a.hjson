@@ -42,7 +42,7 @@ radius:0.3
 
 #TODO make the first sector
 
-accessable: false
+accessable: true
 visable:true
 
 drawOrbit:true
