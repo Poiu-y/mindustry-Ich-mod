@@ -10,8 +10,8 @@ mesh: {
   color2:8bd8df
   radius:0.2
   octaves:3
-  persistence:0.8
-  scale:10
+  persistence:0.1
+  scale:45
   mag:1.5
 }
 icon: planet
