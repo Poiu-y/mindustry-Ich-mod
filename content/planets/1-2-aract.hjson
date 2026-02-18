@@ -24,3 +24,5 @@ radius:0.02
 #TODO make the first sector
 accessable: false
 visable:true
+
+drawOrbit:false
