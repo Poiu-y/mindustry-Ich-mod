@@ -19,3 +19,4 @@ hasAtmosphere:false
 bloom:false
 tidalLock: true
 orbitSpacing: 5
+orbitRadius: 5
