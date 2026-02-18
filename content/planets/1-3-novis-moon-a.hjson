@@ -29,7 +29,7 @@ mesh: {
 }
 
 atmosphereRadIn:0
-atmosphereRadOut:1
+atmosphereRadOut:1.1
 
 icon: planet
 hasAtmosphere:true
@@ -38,7 +38,7 @@ bloom:false
 tidalLock: true
 orbitSpacing: 5
 orbitRadius: 7
-radius:0.4
+radius:0.3
 
 #TODO make the first sector
 
