@@ -20,7 +20,7 @@ thanks to asthosus for teaching me how to make custom blocks and thanks to examp
 this mod is unfinished
 '''
 #the mod version
-version: 0.1
+version: 0.1.1
 
 #the minimum game build required to run this mod
 minGameVersion: 145
