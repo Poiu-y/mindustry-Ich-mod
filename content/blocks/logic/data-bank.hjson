@@ -13,3 +13,5 @@ requirements: [
 ]
 memoryCapacity: 2048
 category: logic
+shownPlanets: [1-1-ich, 1-0-verd, 1-2-aract, 1-3-novis-moon-a, 1-4-sarnomat-1332, 1-5-thonlok-u7]
+
