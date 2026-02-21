@@ -38,3 +38,4 @@ tidalLock: true
 iconColor: ffe16f
 icon: commandRally
 radius:15
+lightColor:00ffee
