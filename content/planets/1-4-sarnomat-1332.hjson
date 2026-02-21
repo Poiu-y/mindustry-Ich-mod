@@ -23,7 +23,7 @@ mesh: {
 	colors: [
 		fe6a34
 		ffffff
-		000000
+		f6fa00
 	]
 }
 cloudMesh: {
