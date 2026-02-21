@@ -16,7 +16,7 @@ mesh: {
 	type: SunMesh
 	divisions: 4
 	octaves: 6
-	preststance: 0.9
+	preststance: 0.2
 	scl: 1
 	pow: 1
 	colorScale: 1
