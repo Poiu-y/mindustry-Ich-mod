@@ -19,7 +19,7 @@ mesh: {
 	preststance: 0.2
 	scl: 1
 	pow: 1
-	colorScale: 0.1
+	colorScale: 1
 	colors: [
 		fe6a34
 		ffffff
@@ -32,6 +32,30 @@ cloudMesh: {
   speed:0.4
   radius:0.09
   divisions:4
+  color:fe6a34
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+cloudMesh: {
+  type:HexSkyMesh
+  seed:41
+  speed:0.35
+  radius:0.16
+  divisions:4
+  color:fe6a34
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+cloudMesh: {
+  type:HexSkyMesh
+  seed:41
+  speed:0.6
+  radius:0.125
+  divisions:3
   color:fe6a34
   octaves:3
   persistence:0.9
