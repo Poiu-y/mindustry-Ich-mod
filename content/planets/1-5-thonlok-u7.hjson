@@ -13,6 +13,20 @@ mesh: [
   scale:1
   mag:1.5
 }
+{
+	type: SunMesh
+	divisions: 4
+	octaves: 90
+	preststance: 0.2
+	scl: 1
+	pow: 1
+	colorScale: 1
+	colors: [
+		4b005c
+		d92eff
+		470085
+	]
+}
 ]
 cloudMesh: [
 {
