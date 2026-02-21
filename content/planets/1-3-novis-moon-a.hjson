@@ -29,7 +29,7 @@ mesh: {
 }
 
 atmosphereRadIn:0
-atmosphereRadOut:1.1
+atmosphereRadOut:1.2
 
 icon: planet
 hasAtmosphere:true
@@ -66,7 +66,6 @@ generator: {
   ferricChance:0.5
   carbonChance:1
 }
-prebuildBase: true
 #techTree: "Core: vent"
 updateLighting: true
 
