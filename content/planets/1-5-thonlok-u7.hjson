@@ -19,7 +19,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.4
-  radius:7.09
+  radius:0.09
   divisions:4
   color:d92eff
   octaves:3
@@ -31,7 +31,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.35
-  radius:7.16
+  radius:0.16
   divisions:4
   color:4b005c
   octaves:3
@@ -43,7 +43,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.6
-  radius:7.125
+  radius:0.125
   divisions:3
   color:470085
   octaves:3
@@ -56,7 +56,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.4
-  radius:7.07
+  radius:0.07
   divisions:4
   color:d92eff
   octaves:3
@@ -68,7 +68,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.35
-  radius:7.05
+  radius:0.05
   divisions:4
   color:4b005c
   octaves:3
@@ -80,7 +80,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.6
-  radius:7.4
+  radius:0.4
   divisions:3
   color:470085
   octaves:3
@@ -93,7 +93,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.4
-  radius:7.05
+  radius:0.05
   divisions:4
   color:d92eff
   octaves:3
@@ -105,7 +105,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.025
-  radius:7.16
+  radius:0.16
   divisions:4
   color:4b005c
   octaves:3
@@ -117,7 +117,7 @@ cloudMesh: [
   type:HexSkyMesh
   seed:41
   speed:0.6
-  radius:7.12
+  radius:0.12
   divisions:3
   color:470085
   octaves:3
@@ -147,7 +147,7 @@ alwaysUnlocked:true
 sectorSize:1
 orbitSpacing:13
 radius:7
-minZoom:0.5
+minZoom:7
 drawOrbit:true
 atmosphereRadIn:0
 atmosphereRadOut:7
@@ -171,3 +171,4 @@ launchCanadets:[]
 defaultEnv: ["scorching","terrestrial","oxygen"]
 orbitRadius: 30
 #a
+maxZoom:10
