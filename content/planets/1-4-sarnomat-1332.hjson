@@ -77,8 +77,8 @@ generator: {
   fmag:0.5
   fscl:50
   fper:0.6
-  radMin:600
-  radMax:600
+  radMin:900
+  radMax:900
   stoneChance:0
   ferricChance:0.5
   carbonChance:1
