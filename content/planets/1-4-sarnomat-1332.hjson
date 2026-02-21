@@ -1,0 +1,71 @@
+localizedName: "sarnomat 1-3-3-2"
+mesh: {
+  type:noiseMesh
+  planet: 1-4-sarnomat-1332
+  seed:14
+  divisions:4
+  color1:fe6a34
+  color2:61591f
+  radius:1.8
+  octaves:3
+  persistence:0.8
+  scale:1
+  mag:1.5
+}
+cloudMesh: {
+  type:HexSkyMesh
+  seed:41
+  speed:0.4
+  radius:0.09
+  divisions:4
+  color:0bddff
+  octaves:3
+  persistence:0.6
+  scl:1
+  thresh:0.4
+}
+generator: {
+  min:1
+  max:1
+  octaves:2
+  scale:30
+  mag:0.4
+  thresh:1
+  foct:3
+  fmag:0.5
+  fscl:50
+  fper:0.6
+  radMin:600
+  radMax:600
+  stoneChance:0
+  ferricChance:0.5
+  carbonChance:1
+}
+alwaysUnlocked:true
+sectorSize:1
+orbitSpacing:13
+radius:2
+minZoom:0.5
+drawOrbit:true
+atmosphereRadIn:0
+atmosphereRadOut:0.4
+accessible:true
+updateLighting:false
+sectorSeed:529
+bloom:true
+visible:true
+atmosphereColor:fe6a34
+iconColor:fe6a34
+hasAtmosphere:true
+allowWaveSimulation:true
+allowLaunchToNumbered:false
+clearSectorOnLose:true
+allowWaves:true
+icon:planet
+defaultCore:ich-mod-core-vent
+parent:"1-0-verd"
+solarSystem:"1-0-verd"
+launchCanadets:[]
+defaultEnv: ["scorching","terrestrial","oxygen"]
+orbitRadius: 30
+#a
