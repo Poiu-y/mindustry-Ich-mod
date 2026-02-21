@@ -66,4 +66,6 @@ generator: {
   ferricChance:0.5
   carbonChance:1
 }
-ruleSetter: false
+prebuildBase: true
+techTree: core-vent
+updateLighting: true
