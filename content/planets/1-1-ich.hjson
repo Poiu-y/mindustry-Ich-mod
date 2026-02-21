@@ -24,7 +24,7 @@ mesh: [
   octaves:9
   persistence:0.1
   scale:2
-  mag:10
+  mag:1.5
 }
 ]
 cloudMesh: {
