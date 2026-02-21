@@ -35,7 +35,7 @@ cloudMesh: [
   speed:0.4
   radius:0.09
   divisions:4
-  color:f6fa00
+  color:ff2e2e
   octaves:3
   persistence:0.9
   scl:1
@@ -47,7 +47,7 @@ cloudMesh: [
   speed:0.35
   radius:0.16
   divisions:4
-  color:f6fa00
+  color:ff2e2e
   octaves:3
   persistence:0.9
   scl:1
@@ -59,7 +59,7 @@ cloudMesh: [
   speed:0.6
   radius:0.125
   divisions:3
-  color:f6fa00
+  color:ff2e2e
   octaves:3
   persistence:0.9
   scl:1
