@@ -19,7 +19,7 @@ mesh: {
 	preststance: 0.2
 	scl: 1
 	pow: 1
-	colorScale: 1
+	colorScale: 0.1
 	colors: [
 		fe6a34
 		ffffff
