@@ -15,7 +15,7 @@ mesh: {
 mesh: {
 	type: SunMesh
 	divisions: 4
-	octaves: 6
+	octaves: 90
 	preststance: 0.2
 	scl: 1
 	pow: 1
