@@ -68,5 +68,5 @@ generator: {
 }
 #techTree: "Core: vent"
 updateLighting: true
-
+allowLaunchToNumbered:false
 autoAssignPlanet:false
