@@ -73,4 +73,5 @@ allowLaunchToNumbered:false
 autoAssignPlanet:false
 defaultCore:ich-mod-core-vent
 
-maxZoom:2
+maxZoom:8
+minZoom:2
