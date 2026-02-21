@@ -70,3 +70,4 @@ generator: {
 updateLighting: true
 allowLaunchToNumbered:false
 autoAssignPlanet:false
+defaultCore:ich-mod-core-vent
