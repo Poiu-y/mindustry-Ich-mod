@@ -25,3 +25,4 @@ research:{
 hiddenOnPlanets: [serpulo, erekir]
 solid: true
 teamPassable: true
+shownPlanets: [1-1-ich, 1-0-verd, 1-2-aract, 1-3-novis-moon-a]
