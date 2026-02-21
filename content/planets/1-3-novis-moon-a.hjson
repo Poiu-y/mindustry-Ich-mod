@@ -29,7 +29,7 @@ mesh: {
 }
 
 atmosphereRadIn:0
-atmosphereRadOut:1.2
+atmosphereRadOut:1.1
 
 icon: planet
 hasAtmosphere:true
