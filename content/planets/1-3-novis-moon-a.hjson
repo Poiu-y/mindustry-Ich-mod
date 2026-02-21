@@ -67,5 +67,7 @@ generator: {
   carbonChance:1
 }
 prebuildBase: true
-techTree: "Core: vent"
+#techTree: "Core: vent"
 updateLighting: true
+
+autoAssignPlanet:false
