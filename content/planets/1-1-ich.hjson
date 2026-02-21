@@ -1,5 +1,6 @@
 localizedName:Ich
-mesh: {
+mesh: [
+{
   type:noiseMesh
   planet:1-1-ich
   seed:14
@@ -12,6 +13,20 @@ mesh: {
   scale:1
   mag:1.5
 }
+{
+  type:noiseMesh
+  planet:1-1-ich
+  seed:14
+  divisions:5
+  color1:7d6868
+  color2:8bd8df
+  radius:0.65
+  octaves:9
+  persistence:0.1
+  scale:45
+  mag:10
+}
+]
 cloudMesh: {
   type:HexSkyMesh
   seed:41
