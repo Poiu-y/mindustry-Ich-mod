@@ -183,6 +183,6 @@ parent:"1-0-verd"
 solarSystem:"1-0-verd"
 launchCanadets:[]
 defaultEnv: ["terrestrial","oxygen"]
-orbitRadius: 186
+orbitRadius: 156
 #a
 maxZoom:8
