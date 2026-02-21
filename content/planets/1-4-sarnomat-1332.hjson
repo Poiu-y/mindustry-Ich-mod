@@ -18,9 +18,9 @@ cloudMesh: {
   speed:0.4
   radius:0.09
   divisions:4
-  color:0bddff
+  color:fe6a34
   octaves:3
-  persistence:0.6
+  persistence:0.9
   scl:1
   thresh:0.4
 }
@@ -48,7 +48,7 @@ radius:2
 minZoom:0.5
 drawOrbit:true
 atmosphereRadIn:0
-atmosphereRadOut:0.4
+atmosphereRadOut:2
 accessible:true
 updateLighting:false
 sectorSeed:529
