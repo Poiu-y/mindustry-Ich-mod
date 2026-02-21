@@ -67,5 +67,5 @@ generator: {
   carbonChance:1
 }
 prebuildBase: true
-techTree: core-vent
+techTree: 1-1-ich
 updateLighting: true
