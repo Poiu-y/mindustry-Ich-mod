@@ -161,7 +161,7 @@ alwaysUnlocked:true
 sectorSize:1
 orbitSpacing:13
 radius:7
-minZoom:3
+minZoom:2
 drawOrbit:true
 atmosphereRadIn:0
 atmosphereRadOut:7
