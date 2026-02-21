@@ -1,6 +1,6 @@
 parent:"1-3-novis-moon-a"
 solarSystem:"1-0-verd"
-localizedName: "Novis Moon (placeholder name)"
+localizedName: "NovisMoonPart-ignore"
 mesh: {
   type:noiseMesh
   planet:1-3-novis-moon-b
@@ -33,8 +33,8 @@ atmosphereColor:bcb2a9
 bloom:true
 tidalLock: true
 orbitSpacing: 5
-orbitRadius: 0.005
-radius:0.2
+orbitRadius: 0.5
+radius:0.1
 accessable: false
 visable:false
 
