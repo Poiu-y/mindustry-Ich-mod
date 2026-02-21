@@ -76,4 +76,4 @@ autoAssignPlanet:false
 defaultCore:ich-mod-core-vent
 
 maxZoom:8
-minZoom:2
+minZoom:4
