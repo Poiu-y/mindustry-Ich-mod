@@ -1,0 +1,173 @@
+localizedName: "Thonlok u-7"
+mesh: [
+{
+  type:noiseMesh
+  planet: 1-5-thonlok
+  seed:14
+  divisions:4
+  color1:fe6a34
+  color2:61591f
+  radius:0.0017
+  octaves:3
+  persistence:0.8
+  scale:1
+  mag:1.5
+}
+]
+cloudMesh: [
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.4
+  radius:7.09
+  divisions:4
+  color:d92eff
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.35
+  radius:7.16
+  divisions:4
+  color:4b005c
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.6
+  radius:7.125
+  divisions:3
+  color:470085
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+  
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.4
+  radius:7.07
+  divisions:4
+  color:d92eff
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.35
+  radius:7.05
+  divisions:4
+  color:4b005c
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.6
+  radius:7.4
+  divisions:3
+  color:470085
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.4
+  radius:7.05
+  divisions:4
+  color:d92eff
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.025
+  radius:7.16
+  divisions:4
+  color:4b005c
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+{
+  type:HexSkyMesh
+  seed:41
+  speed:0.6
+  radius:7.12
+  divisions:3
+  color:470085
+  octaves:3
+  persistence:0.9
+  scl:1
+  thresh:0.4
+}
+]
+generator: {
+  min:1
+  max:1
+  octaves:2
+  scale:30
+  mag:0.4
+  thresh:1
+  foct:3
+  fmag:0.5
+  fscl:50
+  fper:0.6
+  radMin:600
+  radMax:600
+  stoneChance:0
+  ferricChance:0.5
+  carbonChance:1
+}
+alwaysUnlocked:true
+sectorSize:1
+orbitSpacing:13
+radius:7
+minZoom:0.5
+drawOrbit:true
+atmosphereRadIn:0
+atmosphereRadOut:7
+accessible:true
+updateLighting:false
+sectorSeed:529
+bloom:true
+visible:true
+atmosphereColor:fe6a34
+iconColor:fe6a34
+hasAtmosphere:true
+allowWaveSimulation:true
+allowLaunchToNumbered:false
+clearSectorOnLose:true
+allowWaves:true
+icon:planet
+defaultCore:ich-mod-core-vent
+parent:"1-0-verd"
+solarSystem:"1-0-verd"
+launchCanadets:[]
+defaultEnv: ["scorching","terrestrial","oxygen"]
+orbitRadius: 30
+#a
