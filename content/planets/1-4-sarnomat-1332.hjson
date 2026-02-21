@@ -12,6 +12,20 @@ mesh: {
   scale:1
   mag:1.5
 }
+mesh: {
+	type: SunMesh
+	divisions: 4
+	octaves: 6
+	preststance: 0.9
+	scl: 1
+	pow: 1
+	colorScale: 1
+	colors: [
+		fe6a34
+		ffffff
+		61591f
+	]
+}
 cloudMesh: {
   type:HexSkyMesh
   seed:41
