@@ -14,11 +14,13 @@ shootY: 0
 rotateSpeed: 0
 reload: 1
 shootCone: 0
-rotate: false
+rotate: true
 shootStatus: rad
 shootStatusDuration: 1
+alwaysShooting:true
 mirror: false
 alternate: false
+continuous: true
 shoot: {
 shots: 1
 shotDelay: 0
