@@ -17,7 +17,7 @@ firstShotDelay: 0
 shotDelay: 20
 shots: 8
 }
-chargeSound: null
+#chargeSound: null
 bullet: {
 fragLifeMin: 1
 fragLifeMax: 1
