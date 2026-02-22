@@ -47,3 +47,4 @@ radius: 1.5
 payloadCapacity: 8
 pickupUnits: false
 speed: 0.8
+buildSpeed:0.8
