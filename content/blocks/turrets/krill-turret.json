@@ -34,7 +34,7 @@ ammoTypes: {
     lightningDamage: 10
     lightningCone: 90
     damage: 30
-    buildingDamageMultiplier: 1
+    buildingDamageMultiplier: 2
     chargeEffect: lightningCharge
   }
 }
