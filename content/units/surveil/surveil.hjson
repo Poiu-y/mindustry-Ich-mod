@@ -35,6 +35,7 @@ pierceBuilding: false
 lightningColor: 00ffdd
 }
 }
+}
 ]
 type: payload
 engines: [
