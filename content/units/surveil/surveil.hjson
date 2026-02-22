@@ -49,6 +49,8 @@ pierceCap: 1
 damage: 1
 despawnSound: shootArc
 hitSound: shootArc
+shootStatus: slow
+shootStatusDuration: 20
 }
 }
 ]
