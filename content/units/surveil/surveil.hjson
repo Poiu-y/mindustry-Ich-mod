@@ -15,7 +15,7 @@ inaccuracy: 5
 shoot: {
 firstShotDelay: 0
 shotDelay: 20
-shots: 8
+shots: 1
 }
 #chargeSound: null
 bullet: {
@@ -34,6 +34,20 @@ buildingDamageMultiplier: 0.5
 pierceBuilding: false
 lightningColor: 00ffdd
 }
+type: LaserBulletType
+pierce: true
+colors: [00ffdd, 007766, a800a8]
+pierceBuilding: false
+length: 80
+width: 3
+healPercent: 2
+sideAngle: 90
+sideWidth: 1.4
+pierce: true
+pierceCap: 1
+damage: 1
+despawnSound: shootArc
+hitSound: shootArc
 }
 }
 ]
