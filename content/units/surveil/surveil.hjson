@@ -1,0 +1,49 @@
+name: "Surveil"
+description: "A modular core unit, little offensive capabilities on its own. Has a basic sheild."
+health: 785
+armor: 2
+hitSize: 10
+weapons: [
+{
+x: 0
+y: 3
+reload: 70
+mirror: false
+rotate: false
+shootSound: shootArc
+inaccuracy: 5
+shoot: {
+firstShotDelay: 0
+shotDelay: 20
+shots: 8
+}
+chargeSound: null
+bullet: {
+fragLifeMin: 1
+fragLifeMax: 1
+fragVelocityMin: 1
+fragVelocityMax: 1
+fragRandomSpread: 3
+fragBullets: 5
+fragBullet: {
+type: LightningBulletType
+lightningLength: 6
+damage: 2
+pierce: false
+buildingDamageMultiplier: 0.5
+pierceBuilding: false
+lightningColor: 00ffdd
+}
+}
+]
+type: payload
+engines: [
+{
+x: 0
+y: -1
+radius: 1.5
+}
+]
+payloadCapacity: 8
+pickupUnits: false
+speed: 0.8
