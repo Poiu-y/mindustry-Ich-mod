@@ -3,6 +3,6 @@ description: "Water with small amounts of salt mixed in. Can corrode certain mac
 gas: false
 heatCapacity: 0.3
 explosiveness: 0
-color: 596ab8
+color: b7ffff
 research: clorine
 viscosity: 0.53
