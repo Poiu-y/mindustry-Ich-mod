@@ -11,7 +11,7 @@ flammability: 0
 incinerable: false
 viscosity: 0.65
 cells: 0
-spreadDamage 0.2
+spreadDamage: 0.2
 spreadTarget: novis
 particleEffect: muddy
 #capPuddles: false
