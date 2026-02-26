@@ -15,7 +15,7 @@ requirements: [
   silver/40
   sodium/25
 ]
-attribute: salt
+attributes: salt
 baseEfficiency: 0
 boostScale: 1
 maxBoost:4
