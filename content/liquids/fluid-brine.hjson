@@ -1,6 +1,6 @@
 type: CellLiquid
 name: "Brine"
-description: 
+description: ""
 temperature: 0
 coolant: false
 color: a2d2d7
