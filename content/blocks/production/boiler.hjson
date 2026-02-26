@@ -1,6 +1,6 @@
 category: crafting
-#type: heatProducer
-#type: genericCrafter
+#type: HeatProducer
+type: AttributeCrafter
 heatOutput: 3
 size:2 
 consumes: {
