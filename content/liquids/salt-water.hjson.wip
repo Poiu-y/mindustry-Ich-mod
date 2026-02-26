@@ -1,1 +1,8 @@
+name: "Sea Water"
+description: "Water with small amounts of salt mixed in. Can corrode certain machines and substances."
+gas: false
+heatCapacity: 0.3
+explosiveness: 0
+color: 596ab8
+research: clorine
 viscosity: 0.53
