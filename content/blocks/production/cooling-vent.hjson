@@ -5,7 +5,7 @@ size: 2
 range: 10
 speedBoost: 2
 hasBoost: false
-heatRequirement: 1
+heatRequirement: 3
 maxHeatEfficiency: 10.5
 consumes: {
 #"heat": 1
