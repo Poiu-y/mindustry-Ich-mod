@@ -6,8 +6,8 @@ range: 10
 speedBoost: 2
 hasBoost: false
 consumes: {
-"heat/1"
-"power/5"
+"heat": 1
+"power": 5
 }
 
 
