@@ -17,3 +17,5 @@ separateItemCapacity:false
 itemCapacity: 60
 variantRegions: [iridium-platework-0, iridium-platework-1, iridium-platework-2, iridium-platework-3]
 size: 3
+solid:true
+underBullets:false
