@@ -1,0 +1,17 @@
+name: Iridium-Platework
+type: Router
+description: "A simple logistics device, distributes items rapidly in all directions, stores 60 items with seperate capacity per type. wip"
+category: distribution
+alwaysUnlocked:false
+research:ich-duct-router
+speed:60
+health:60
+requirements:[
+  iridium/2
+]
+researchCostMultiplier:0.5
+hiddenOnPlanets: [serpulo, erekir]
+shownPlanets: [1-1-ich, 1-0-verd, 1-2-aract, 1-3-novis-moon-a, 1-4-sarnomat-1332, 1-5-thonlok-u7]
+
+separateItemCapacity:false
+itemCapacity: 60
