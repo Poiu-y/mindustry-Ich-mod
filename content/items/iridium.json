@@ -2,6 +2,7 @@ name:iridium
 description:a rare but important metal.
 hardness:2
 cost:0.5
+charge: 0.4
 research:silver
 hiddenOnPlanets: [serpulo, erekir]
 color:ff7f00
