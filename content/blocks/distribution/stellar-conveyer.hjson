@@ -1,0 +1,31 @@
+type: StackConveyor
+name: Stellar Conveyer
+description: "moves items forward, can fuction outside of water. needs dedicated loading, and unloading points for peak throughput."
+speed: 1.5
+itemCapacity: 1
+health: 50
+category: distribution
+research: ich-duct
+requirements: [
+  copper-oxide/2
+  iridium/1
+]   
+loadEffect: {
+  type: ParticleEffect
+  length: 6
+  particles: 5
+  line: true
+  strokeFrom: 0.8
+  strokeTo: 0.1
+}
+unloadEffect: {
+  type: ParticleEffect
+  length: 6
+  particles: 5
+  line: true
+  strokeFrom: 0.8
+  strokeTo: 0.1
+}
+researchCostMultiplier: 0.5
+hiddenOnPlanets: [serpulo, erekir]
+shownPlanets: [1-1-ich, 1-0-verd, 1-2-aract, 1-3-novis-moon-a, 1-4-sarnomat-1332, 1-5-thonlok-u7]
