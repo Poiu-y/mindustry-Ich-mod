@@ -1,7 +1,7 @@
 type: StackConveyor
 name: Stellar Conveyer
 description: "moves items forward, can fuction outside of water. needs dedicated loading, and unloading points for peak throughput."
-speed: 0.575
+speed: 0.075
 itemCapacity: 1
 health: 50
 category: distribution
