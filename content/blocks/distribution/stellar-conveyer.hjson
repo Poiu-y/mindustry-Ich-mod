@@ -3,6 +3,11 @@ name: Stellar Conveyer
 description: "moves items forward, can fuction outside of water. needs dedicated loading, and unloading points for peak throughput."
 speed: 0.075
 itemCapacity: 1
+hasPower: true
+outputsPower: true
+consumes: {
+  powerBuffered: 1
+}
 health: 50
 category: distribution
 research: ich-duct
@@ -13,7 +18,7 @@ requirements: [
 loadEffect: {
   type: ParticleEffect
   length: 6
-  particles: 5
+  particles: 3
   line: true
   strokeFrom: 0.8
   strokeTo: 0.1
@@ -21,7 +26,7 @@ loadEffect: {
 unloadEffect: {
   type: ParticleEffect
   length: 6
-  particles: 5
+  particles: 3
   line: true
   strokeFrom: 0.8
   strokeTo: 0.1
