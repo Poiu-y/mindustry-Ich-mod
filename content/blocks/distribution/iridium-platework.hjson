@@ -2,6 +2,8 @@ name: Iridium-Platework
 #type: Router
 type: genericCrafter
 conductivePower:true
+connectedPower:true
+hasPower:true
 description: "A simple logistics device, distributes items rapidly in all directions, stores 60 items with seperate capacity per type. does not allow biological substances unless fossilized. wip"
 category: distribution
 alwaysUnlocked:false
