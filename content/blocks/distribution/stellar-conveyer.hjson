@@ -3,10 +3,11 @@ name: Stellar Conveyer
 description: "moves items forward, can fuction outside of water. needs dedicated loading, and unloading points for peak throughput."
 speed: 0.075
 itemCapacity: 1
+connectedPower:true
 hasPower: true
 outputsPower: true
 consumes: {
-  powerBuffered: 1
+  powerBuffered: 2
 }
 health: 50
 category: distribution
