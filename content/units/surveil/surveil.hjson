@@ -71,3 +71,17 @@ speed: 0.9
 buildSpeed:0.8
 drag: 0.12
 accel: 0.2
+abilities: [
+  {
+    type: ShieldArcAbility
+    max: 95
+    cooldown: 30
+    regen: 0.8
+    angle: 180
+    whenShooting: false
+    width: 4
+    x: 0
+    y: -22
+    radius: 20
+  }
+]
