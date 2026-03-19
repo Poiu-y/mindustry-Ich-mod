@@ -14,12 +14,12 @@ requirements: [
 ]
 plans: [
   {
-    #type: AssemblerUnitPlan
-    #unit: none
-    #requirements: [
-    #  krill-turret
-    #]
-    #time: 10
+    type: AssemblerUnitPlan
+    unit: nautilus-build-drone
+    requirements: [
+      krill-turret
+    ]
+    time: 10
   }
 ]
 areaSize: -1
