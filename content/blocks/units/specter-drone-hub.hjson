@@ -3,7 +3,8 @@ name:"Specter Drone Hub [red]WIP[]"
 description: "Constructs luminous general purpose drones [red]WIP[]"
 size: 1
 category: units
-droneType: specter-assist-drone
+#droneType: specter-assist-drone
+droneType: nautilus-build-drone
 research: {
   parent: drone-synthesizer
 }
