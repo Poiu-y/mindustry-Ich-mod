@@ -1,0 +1,59 @@
+type: tether
+name: "Specter"
+description: "A small general purpose drone, with no fatal offensive abilitys"
+flying: true
+drag: 0.06
+accel: 0.11
+speed: 1.1
+health: 90
+engineSize: 2
+engineOffset: 5.5
+payloadCapacity: 0
+targetable: true
+bounded: true
+outlineColor: 44413c
+isEnemy: false
+hidden: false
+useUnitCap: true
+logicControllable: true
+playerControllable: true
+allowedInPayloads: false
+createWreck: false
+controller: RepairAI
+commands: [move, repair, rebuild, assist]
+weapons: [
+{
+  x: 0
+    y: 3
+    reload: 12
+    mirror: false
+    rotate: false
+    shootSound: laser
+    inaccuracy: 0
+    shoot: {
+      firstShotDelay: 30
+      shotDelay: 12
+      shots: 1
+    }
+    chargeSound: bolt
+    bullet: {
+      type: LaserBulletType
+      colors: [ff0000, ff4747, ffffff]
+      width: 50
+      length: 70
+      damage: 0
+      healPercent: 8
+      collidesTeam: true
+      pierce: true
+      pierceBuilding: false
+      pierceCap: 1
+      chargeEffect: lightningCharge
+      shootEffect: shootSmall
+      smokeEffect: shootSmallSmoke
+      hitColor: ff4747
+    }
+  }
+]
+shownPlanets: [1-1-ich, 1-0-verd, 1-2-aract, 1-3-novis-moon-a, 1-4-sarnomat-1332, 1-5-thonlok-u7]
+
+envEnabled:["scorching","underwater","any"]
