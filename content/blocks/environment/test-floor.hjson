@@ -5,6 +5,6 @@ isLiquid: true
 #liquidDrop: 
 statusDuration: 60
 overlayAlpha: 1
-cacheLayer: buildbeam
+cacheLayer: fog
 variants: 1
 #drownTime: 90
