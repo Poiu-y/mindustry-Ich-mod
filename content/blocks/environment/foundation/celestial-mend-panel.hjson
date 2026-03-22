@@ -1,0 +1,12 @@
+type: floor
+name: "Celestial Mending Foundation"
+description: "Mends units that walk on it, regardless of team"
+speedMultiplier: 0.9
+damageTaken: -0.05
+#status:
+#statusDuration: 0.05
+floating: true
+overlayAlpha: 0.1
+cacheLayer: arkycite
+variants: 1
+drownTime: 0
