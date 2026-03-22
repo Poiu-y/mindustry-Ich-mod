@@ -1,0 +1,16 @@
+type: SteamVent
+name: "Grand Celestial Plate"
+description: "Allows for some factorys to function without sutible natural terrain"
+speedMultiplier: 1
+damageTaken: 0
+#status: "bound"
+#statusDuration: 0.05
+floating: false
+overlayAlpha: 0.05
+cacheLayer: arkycite
+variants: 1
+drownTime: 0
+parent:celestial-dark-panel-3
+effect: none
+blendGroup: celestial-dark-panel-3
+attributes: {"salt"/1,"steam"/1,"amp"/9}
