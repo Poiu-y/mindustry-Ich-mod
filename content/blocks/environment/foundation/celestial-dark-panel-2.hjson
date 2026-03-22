@@ -5,6 +5,6 @@ speedMultiplier: 1.05
 #statusDuration: 0.05
 floating: true
 overlayAlpha: 0.1
-cacheLayer: arkycite
+#cacheLayer: arkycite
 variants: 1
 drownTime: 0
