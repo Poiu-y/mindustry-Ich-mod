@@ -13,4 +13,4 @@ drownTime: 0
 parent:celestial-dark-panel-3
 effect: none
 blendGroup: celestial-dark-panel-3
-attributes: {"salt"/1,"steam"/1,"amp"/9}
+attributes: {"salt":1,"steam":1,"amp":9}
