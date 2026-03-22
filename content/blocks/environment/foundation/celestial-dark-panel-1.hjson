@@ -1,0 +1,10 @@
+type: floor
+name: "Celestial Foundation"
+speedMultiplier: 1.05
+#status:
+#statusDuration: 0.05
+floating: true
+overlayAlpha: 0.1
+cacheLayer: arkycite
+variants: 1
+drownTime: 0
