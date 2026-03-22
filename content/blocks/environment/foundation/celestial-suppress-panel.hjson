@@ -1,0 +1,12 @@
+type: floor
+name: "Celestial Suppression Foundation"
+description: "slows and stuns units that walk on it. dissables construction, regardless of team"
+speedMultiplier: 0.5
+damageTaken: 0
+status: "bound"
+statusDuration: 0.05
+floating: true
+overlayAlpha: 0.1
+cacheLayer: arkycite
+variants: 1
+drownTime: 0
