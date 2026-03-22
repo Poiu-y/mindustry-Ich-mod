@@ -7,7 +7,7 @@ damageTaken: 0
 #statusDuration: 0.05
 floating: false
 overlayAlpha: 0.05
-cacheLayer: arkycite
+#cacheLayer: arkycite
 variants: 1
 drownTime: 0
 parent:celestial-dark-panel-3
