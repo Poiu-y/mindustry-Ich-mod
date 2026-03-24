@@ -13,3 +13,4 @@ shieldColor: 00000000
 drawTeamOverlay: false
 forceTeam: malis
 health: 40
+category: defense
