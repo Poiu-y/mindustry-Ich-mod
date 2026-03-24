@@ -12,3 +12,4 @@ sides: 4
 shieldColor: 00000000
 drawTeamOverlay: false
 forceTeam: malis
+health: 40
