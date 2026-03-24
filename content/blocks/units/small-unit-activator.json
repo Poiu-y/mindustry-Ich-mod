@@ -19,7 +19,16 @@ plans: [
     requirements: [
       ich-mod-nimos-i/1
     ]
-    time: 10
+    time: 30
+  },
+  {
+    type: AssemblerUnitPlan
+    unit: nimos
+    requirements: [
+      aluminum-wall-1/2,
+      ich-conduit/1
+    ]
+    time: 40
   }
 ]
 consumes: {
