@@ -9,7 +9,7 @@ requirements: []
 squareSprite: false
 radius: 5.7
 sides:8
-shieldColor: 000000ff
+shieldColor: 00000000
 drawTeamOverlay: false
 forceTeam: crux
 health: 40
