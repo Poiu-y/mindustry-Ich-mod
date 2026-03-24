@@ -11,6 +11,6 @@ radius: 5.1
 sides: 6
 shieldColor: 00000000
 drawTeamOverlay: false
-forceTeam: neoplastic
+forceTeam: crux
 health: 40
 category: defense
