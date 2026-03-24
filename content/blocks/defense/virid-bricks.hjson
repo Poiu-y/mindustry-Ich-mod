@@ -1,0 +1,14 @@
+type: BaseShield
+name: "Virid Bricks"
+description: "Nearly immune to most forms of attacks. Weak to lasers, can't be mended or deconstructed."
+details: "An unusual byproduct of the pre war era, rediscovered from the ruins of your people. No other civilization has been capible of replicating it before or since."
+size: 1
+buildVisibility: shown
+consumes: {}
+requirements: []
+squareSprite: false
+radius: 1.1
+sides: 4
+shieldColor: 00000000
+drawTeamOverlay: false
+forceTeam: malis
