@@ -16,3 +16,7 @@ health: 40
 category: defense
 rebuildable:false
 targetable: false
+underBullets:true
+insulated: true
+useColor: false
+attributes: {fragmented:1, sand:5}
