@@ -1,4 +1,5 @@
 type: SteamVent
+buildVisibility: shown
 name: "Grand Celestial Plate"
 description: "Allows for some factorys to function without sutible natural terrain"
 speedMultiplier: 1
