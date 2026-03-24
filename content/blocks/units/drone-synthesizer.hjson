@@ -7,7 +7,7 @@ description:
    buildable:
    -nimos
    -aluminum walls
-   -[null]
+   -Simple Conduit
 '''
 size: 2
 category: units
@@ -19,7 +19,8 @@ requirements: [
 buildSpeed: 0.1
 filter: [
   nimos-i,
-  aluminum-wall-1
+  aluminum-wall-1,
+  ich-conduit,
 ]
 research: nimos
 squareSprite: false
