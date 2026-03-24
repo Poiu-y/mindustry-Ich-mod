@@ -14,3 +14,5 @@ drawTeamOverlay: false
 forceTeam: crux
 health: 40
 category: defense
+rebuildable:false
+targetable: false
