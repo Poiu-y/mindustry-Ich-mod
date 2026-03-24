@@ -1,4 +1,5 @@
 type: floor
+buildVisibility: shown
 name: "Celestial Foundation 3"
 speedMultiplier: 1.05
 #status:
