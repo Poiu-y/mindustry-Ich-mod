@@ -7,8 +7,8 @@ buildVisibility: shown
 consumes: {}
 requirements: []
 squareSprite: false
-radius: 11
-sides: 4
+radius: 5.1
+sides: 6
 shieldColor: 00000000
 drawTeamOverlay: false
 forceTeam: neoplastic
