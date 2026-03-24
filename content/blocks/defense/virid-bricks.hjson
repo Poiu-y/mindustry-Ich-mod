@@ -7,7 +7,7 @@ buildVisibility: shown
 consumes: {}
 requirements: []
 squareSprite: false
-radius: 1.1
+radius: 11
 sides: 4
 shieldColor: 00000000
 drawTeamOverlay: false
