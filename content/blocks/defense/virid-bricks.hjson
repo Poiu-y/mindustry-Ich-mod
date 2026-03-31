@@ -8,8 +8,8 @@ consumes: {}
 requirements: []
 squareSprite: false
 radius: 5.7
-sides:8
-shieldColor: 00000000
+sides:4
+#shieldColor: 00000000
 drawTeamOverlay: false
 forceTeam: crux
 health: 40
