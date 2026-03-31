@@ -1,0 +1,36 @@
+name: "Defragmentation Terminal"
+type: WallCrafter
+description: "Extracts data from other blocks, and outputs that data in a useable form"
+category: production
+research: b-icn
+requirements: [
+  aluminum/40
+  magnesium/15
+  silver/30
+  sodium/50
+]
+consumes: {
+  power: 1.5
+  items: [
+    state-drive-1-0/40
+    state-drive-1-0/40
+  ]
+}
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawRegion
+      suffix: -core
+    }
+  ]
+}
+drillTime: 140
+output: data-shard/1
+attribute: fragmented
+ambientSound: shootSap
+ambientSoundVolume: 0.07
+shownPlanets: [1-1-ich, 1-0-verd, 1-2-aract, 1-3-novis-moon-a, 1-4-sarnomat-1332, 1-5-thonlok-u7]
