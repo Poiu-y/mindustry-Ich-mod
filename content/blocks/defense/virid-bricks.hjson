@@ -20,3 +20,4 @@ underBullets:true
 insulated: true
 useColor: false
 attributes: {fragmented:1, sand:5}
+shieldRotation: 45
