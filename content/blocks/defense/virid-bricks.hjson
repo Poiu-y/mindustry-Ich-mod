@@ -7,8 +7,8 @@ buildVisibility: shown
 consumes: {}
 requirements: []
 squareSprite: false
-radius: 5.7
-sides:4
+radius: 5.8
+sides:8
 #shieldColor: 00000000
 drawTeamOverlay: false
 forceTeam: crux
@@ -20,4 +20,3 @@ underBullets:true
 insulated: true
 useColor: false
 attributes: {fragmented:1, sand:5}
-shieldRotation: 45
