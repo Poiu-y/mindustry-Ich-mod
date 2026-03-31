@@ -2,6 +2,7 @@ name: "Defragmentation Terminal"
 type: WallCrafter
 description: "Extracts data from other blocks, and outputs that data in a useable form"
 category: production
+size: 1
 research: b-icn
 requirements: [
   aluminum/40
