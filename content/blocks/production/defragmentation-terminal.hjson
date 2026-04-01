@@ -17,6 +17,7 @@ consumes: {
     state-drive-1-1/40
   ]
 }
+itemCapacity:40
 drawer: {
   type: DrawMulti
   drawers: [
