@@ -26,7 +26,12 @@ drawer: {
     }
     {
       type: DrawRegion
-      suffix: -core
+      suffix: "-core"
+    }
+    {
+      type: DrawRegion
+      suffix: "-top"
+      
     }
   ]
 }
