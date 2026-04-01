@@ -10,6 +10,7 @@ requirements: [
   silver/30
   sodium/50
 ]
+squareSprite: false
 consumes: {
   power: 1.5
   items: [
