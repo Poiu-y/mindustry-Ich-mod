@@ -30,7 +30,7 @@ drawer: {
   ]
 }
 drillTime: 140
-output: data-shard/1
+output: data-shard
 attribute: fragmented
 ambientSound: shootSap
 ambientSoundVolume: 0.07
