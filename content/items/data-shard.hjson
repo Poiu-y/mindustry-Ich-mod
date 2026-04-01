@@ -1,0 +1,10 @@
+name: "Data Shard"
+description: "A small data storage medium containing large amounts of data for future analysis"
+hardness: 0.5
+cost:0.5
+research: defragmentation-terminal
+hiddenOnPlanets: [serpulo, erekir]
+color:00ffff
+radioactivity: 0
+frames: 5
+frameTime:	4
