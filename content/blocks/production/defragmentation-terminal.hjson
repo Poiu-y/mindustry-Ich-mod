@@ -32,7 +32,7 @@ drawer: {
     {
       type: DrawRegion
       suffix: "-top"
-      layer: 9999999
+      layer: 1
       buildingRotate: true
     }
   ]
