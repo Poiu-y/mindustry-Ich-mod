@@ -1,0 +1,34 @@
+type: crawl
+name: Primitive Novis Blob
+health: 80
+abilities: [
+  {
+    type: LiquidExplodeAbility
+    liquid: novis
+    amount: 150
+    radAmountScale: 15
+    radScale: 15
+  }
+  {
+    type: LiquidRegenAbility
+    liquid: novis	
+    slurpSpeed:	5.0	
+    regenPerSlurp:	6.0	
+    slurpEffectChance:	0.4	
+  }
+]
+canDrown: false
+useUnitCap: false
+createScorch: false
+omniMovement: false
+healFlash: true
+immunities: [rad, bound, blasted, freezing]
+crushDamage: 15
+allowLegStep: false
+lightRadius: 0
+drawBody: false
+drawCell: false
+segments: 4
+segmentScl: 3
+segmentMaxRot: 35
+shownPlanets: [1-1-ich, 1-0-verd, 1-2-aract, 1-3-novis-moon-a, 1-4-sarnomat-1332, 1-5-thonlok-u7]
