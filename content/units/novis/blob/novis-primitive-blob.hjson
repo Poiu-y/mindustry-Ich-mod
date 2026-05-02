@@ -13,7 +13,7 @@ abilities: [
     type: LiquidRegenAbility
     liquid: novis	
     slurpSpeed:	5.0	
-    regenPerSlurp:	6.0	
+    regenPerSlurp:	1.5
     slurpEffectChance:	0.4	
   }
 ]
