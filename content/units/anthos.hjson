@@ -30,6 +30,7 @@ abilities: [
     liquid: hemolymph
     amount: 150
     radAmountScale: 15
+    radScale: 1.52
   }
 ]
 weapons:[
