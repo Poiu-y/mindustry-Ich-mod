@@ -3,6 +3,7 @@ physics: false
 template: MissileUnitType
 flying: false
 speed: 0
+bounded: true
 wobble:true
 useUnitCap: true
 engineSize: 0
