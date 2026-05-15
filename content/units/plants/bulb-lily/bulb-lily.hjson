@@ -19,7 +19,7 @@ aimDst: 4
 drawCell: false
 outlines: true
 outlineRadius: 2
-outlineColor: 700505
+outlineColor: 70050500
 range: 0
 hidden: true
 deathSoundVolume: 0
