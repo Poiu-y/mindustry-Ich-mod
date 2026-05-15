@@ -24,11 +24,11 @@ range: 10
 hidden: true
 deathSoundVolume: 0
 abilities: [
- {
-  type: SpawnDeathAbility
-  amount: 6
-  unit: bulb-lily-spore
- }
+  {
+    type: SpawnDeathAbility
+    amount: 6
+    unit: bulb-lily-spore
+  }
 ]
 weapons: [
   {
