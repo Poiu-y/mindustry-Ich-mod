@@ -17,7 +17,7 @@ faceTarget: true
 health: 35
 aimDst: 4
 drawCell: false
-outlines: true
+outlines: false
 outlineRadius: 4
 outlineColor: 700505
 range: 0
