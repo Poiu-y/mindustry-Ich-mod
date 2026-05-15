@@ -23,15 +23,15 @@ outlineColor: 700505
 range: 10
 hidden: true
 deathSoundVolume: 0
-/*abilities: [
-	{
+abilities: [
+  {
     type: UnitSpawnAbility
     spawnTime: 650
     spawnX: 0
     spawnY: 0
-		unit: bulb-lily-sapling
-	}
-/*]
+    unit: bulb-lily-sapling
+  }
+]
 weapons: [
   {
     reload: 1
