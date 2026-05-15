@@ -29,7 +29,7 @@ abilities: [
     spawnTime: 650
     spawnX: 0
     spawnY: 0
-		unit: bulb-lily
+    unit: bulb-lily
 	}
 ]
 weapons: [
