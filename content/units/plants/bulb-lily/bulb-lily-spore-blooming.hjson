@@ -18,9 +18,9 @@ health: 35
 aimDst: 4
 drawCell: false
 outlines: true
-outlineRadius: 2
+outlineRadius: 4
 outlineColor: 700505
-range: 10
+range: 0
 hidden: true
 deathSoundVolume: 0
 abilities: [
