@@ -2,6 +2,7 @@ type: missile
 physics: false
 template: MissileUnitType
 flying: true
+bounded: true
 speed: 3
 useUnitCap: true
 engineSize: 0
