@@ -23,7 +23,7 @@ outlineColor: 700505
 range: 10
 hidden: true
 deathSoundVolume: 0
-/*abilities: [
+abilities: [
 	{
     type: UnitSpawnAbility
     spawnTime: 2650
@@ -31,7 +31,7 @@ deathSoundVolume: 0
     spawnY: 0
 		unit: bulb-lily
 	}
-/*]
+]
 weapons: [
   {
     reload: 1
