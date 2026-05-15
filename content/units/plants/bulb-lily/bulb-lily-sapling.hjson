@@ -20,7 +20,7 @@ drawCell: false
 outlines: true
 outlineRadius: 2
 outlineColor: 700505
-range: 10
+range: 1
 hidden: true
 deathSoundVolume: 0
 abilities: [
