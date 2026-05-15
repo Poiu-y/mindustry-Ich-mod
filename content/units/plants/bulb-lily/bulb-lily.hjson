@@ -29,6 +29,11 @@ abilities: [
     amount: 6
     unit: bulb-lily-spore
   }
+  {
+    type: SpawnDeathAbility
+    amount: 1
+    unit: bulb-lily-sapling
+  }
 ]
 weapons: [
   {
