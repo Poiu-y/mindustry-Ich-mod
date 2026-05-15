@@ -6,7 +6,7 @@ speed: 0
 wobble:true
 useUnitCap: true
 engineSize: 0
-lifetime: 2651
+lifetime: 651
 rotateSpeed: 0
 hitSize: 3
 trailLength: 0
