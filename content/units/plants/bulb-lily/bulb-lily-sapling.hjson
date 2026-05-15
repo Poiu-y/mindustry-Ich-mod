@@ -24,13 +24,13 @@ range: 10
 hidden: true
 deathSoundVolume: 0
 abilities: [
-	{
-    type: UnitSpawnAbility
-    spawnTime: 650
-    spawnX: 0
-    spawnY: 0
-    unit: bulb-lily
-	}
+ {
+  type: UnitSpawnAbility
+  spawnTime: 650
+  spawnX: 0
+  spawnY: 0
+  unit: bulb-lily
+ }
 ]
 weapons: [
   {
