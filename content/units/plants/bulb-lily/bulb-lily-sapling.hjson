@@ -1,0 +1,53 @@
+type: missile
+physics: false
+template: MissileUnitType
+flying: false
+speed: 0
+wobble:true
+useUnitCap: true
+engineSize: 0
+lifetime: 2651
+rotateSpeed: 0
+hitSize: 3
+trailLength: 0
+autoFindTarget: false
+homingDelay: 0
+circleTarget: false
+faceTarget: true
+health: 35
+aimDst: 4
+drawCell: false
+outlines: true
+outlineRadius: 2
+outlineColor: 700505
+range: 10
+hidden: true
+deathSoundVolume: 0
+/*abilities: [
+	{
+    type: UnitSpawnAbility
+    spawnTime: 2650
+    spawnX: 0
+    spawnY: 0
+		unit: bulb-lily
+	}
+/*]
+weapons: [
+  {
+    reload: 1
+    shake: 0
+    shootOnDeath: true
+    mirror: true
+    shootCone: 360
+    shootSound: none
+    shake: 0
+    bullet: {
+      type: ExplosionBulletType
+      despawnShake: 0
+      hitShake: 0
+      splashDamage: 0
+      splashDamageRadius: 0
+      killShooter: true
+    }
+  } 
+]
