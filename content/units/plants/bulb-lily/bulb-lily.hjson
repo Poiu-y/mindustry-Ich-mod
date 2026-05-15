@@ -2,6 +2,7 @@ type: missile
 physics: false
 template: MissileUnitType
 flying: false
+bounded: true
 speed: 0
 wobble:true
 useUnitCap: true
@@ -21,7 +22,7 @@ outlines: false
 outlineRadius: 2
 outlineColor: 700505
 range: 0
-hidden: true
+hidden: false
 deathSoundVolume: 0
 abilities: [
   {
