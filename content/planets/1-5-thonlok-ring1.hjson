@@ -16,10 +16,10 @@ mesh: {
 }
 icon: planet
 hasAtmosphere: false
-bloom: true
+bloom: false
 tidalLock: false
 orbitSpacing: 9
-orbitRadius: 20
+orbitRadius: 0
 radius:0.5
 accessible:true
 visible:true
