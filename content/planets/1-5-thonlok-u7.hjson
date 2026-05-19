@@ -159,7 +159,7 @@ generator: {
 }
 alwaysUnlocked:true
 sectorSize:1
-orbitSpacing:13
+orbitSpacing:5
 radius:7
 minZoom:1
 drawOrbit:true
@@ -184,6 +184,6 @@ parent:"1-0-verd"
 solarSystem:"1-5-thonlok-u7"
 launchCanadets:[]
 defaultEnv: ["terrestrial","oxygen"]
-orbitRadius: 7
+orbitRadius: 130
 #a
 maxZoom:8
