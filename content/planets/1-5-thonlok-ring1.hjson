@@ -14,6 +14,23 @@ mesh: {
   scale:45
   mag:10
 }
+generator: {
+  min:1
+  max:1
+  octaves:2
+  scale:30
+  mag:0.4
+  thresh:1
+  foct:3
+  fmag:0.5
+  fscl:50
+  fper:0.6
+  radMin:600
+  radMax:600
+  stoneChance:0
+  ferricChance:0.5
+  carbonChance:1
+}
 icon: planet
 hasAtmosphere: false
 bloom: false
