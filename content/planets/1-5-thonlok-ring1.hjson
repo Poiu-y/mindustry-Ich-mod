@@ -8,7 +8,7 @@ mesh: {
   divisions:1
   color1:d92eff
   color2:ffffff
-  radius:0.20
+  radius:0.5
   octaves:9
   persistence:0.1
   scale:45
@@ -20,7 +20,7 @@ bloom: true
 tidalLock: false
 orbitSpacing: 9
 orbitRadius: 20
-radius:0.20
+radius:0.5
 accessible:true
 visible:true
 
@@ -29,3 +29,5 @@ drawOrbit:true
 
 alwaysUnlocked:true
 
+maxZoom:8
+minZoom:4
