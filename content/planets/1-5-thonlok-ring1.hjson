@@ -36,7 +36,7 @@ hasAtmosphere: true
 atmosphereRadIn:0
 atmosphereRadOut:7
 
-bloom: false
+bloom: true
 tidalLock: false
 orbitSpacing: 9
 orbitRadius: 10
@@ -49,5 +49,5 @@ drawOrbit:true
 
 alwaysUnlocked:true
 
-maxZoom:8
-minZoom:4
+maxZoom:30
+minZoom:1
