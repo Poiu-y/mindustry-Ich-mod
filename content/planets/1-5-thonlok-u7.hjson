@@ -2,7 +2,7 @@ localizedName: "Thonlok u-7"
 mesh: [
 {
   type:noiseMesh
-  planet: 1-5-thonlok
+  planet: 1-5-thonlok-u7
   seed:14
   divisions:4
   color1:d92eff
