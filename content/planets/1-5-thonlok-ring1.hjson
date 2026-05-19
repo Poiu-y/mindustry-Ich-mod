@@ -19,10 +19,10 @@ hasAtmosphere:false
 bloom:false
 tidalLock: true
 orbitSpacing: 5
-orbitRadius: 5
-radius:0.02
+orbitRadius: 80
+radius:0.20
 #TODO make the first sector
-accessable: false
+#accessable: false
 visable:true
 
 drawOrbit:false
