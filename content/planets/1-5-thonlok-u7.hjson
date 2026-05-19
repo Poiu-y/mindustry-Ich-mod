@@ -184,6 +184,6 @@ parent:"1-0-verd"
 solarSystem:"1-5-thonlok-u7"
 launchCanadets:[]
 defaultEnv: ["terrestrial","oxygen"]
-orbitRadius: 130
+orbitRadius: 7
 #a
 maxZoom:8
