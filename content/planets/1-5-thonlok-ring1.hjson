@@ -1,5 +1,6 @@
 parent:"1-5-thonlok-u7"
-solarSystem:"1-5-thonlok-u7"
+#solarSystem: "1-5-thonlok-u7"
+solarSystem:"1-0-verd"
 localizedName: Ring-asteroid-1
 mesh: {
   type:noiseMesh
