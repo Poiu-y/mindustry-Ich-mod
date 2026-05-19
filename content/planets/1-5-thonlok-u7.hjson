@@ -162,7 +162,7 @@ sectorSize:1
 orbitSpacing:5
 radius:7
 #minZoom:1
-minZoom:0.001
+minZoom:0.000001
 drawOrbit:true
 atmosphereRadIn:0
 atmosphereRadOut:7
