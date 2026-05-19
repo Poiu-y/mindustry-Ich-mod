@@ -32,11 +32,14 @@ generator: {
   carbonChance:1
 }
 icon: planet
-hasAtmosphere: false
+hasAtmosphere: true
+atmosphereRadIn:0
+atmosphereRadOut:7
+
 bloom: false
 tidalLock: false
 orbitSpacing: 9
-orbitRadius: 0
+orbitRadius: 10
 radius:0.3
 accessible:true
 visible:true
