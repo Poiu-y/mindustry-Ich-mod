@@ -26,3 +26,6 @@ visible:true
 
 #drawOrbit:false
 drawOrbit:true
+
+alwaysUnlocked:true
+
