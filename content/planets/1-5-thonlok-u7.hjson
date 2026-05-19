@@ -159,7 +159,7 @@ generator: {
 }
 alwaysUnlocked:true
 sectorSize:1
-orbitSpacing:5
+orbitSpacing:7
 radius:7
 minZoom:1
 drawOrbit:true
