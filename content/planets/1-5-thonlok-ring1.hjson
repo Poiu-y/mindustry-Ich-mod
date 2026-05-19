@@ -3,7 +3,7 @@ solarSystem:"1-5-thonlok-u7"
 localizedName: Ring-asteroid-1
 mesh: {
   type:noiseMesh
-  planet:1-2-aract
+  planet:1-5-thonlok-ring1
   seed:14
   divisions:1
   color1:d92eff
