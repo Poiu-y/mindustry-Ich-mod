@@ -19,7 +19,7 @@ hasAtmosphere: false
 bloom: false
 tidalLock: true
 orbitSpacing: 9
-orbitRadius: 9
+orbitRadius: 20
 radius:0.20
 accessible:true
 visible:true
